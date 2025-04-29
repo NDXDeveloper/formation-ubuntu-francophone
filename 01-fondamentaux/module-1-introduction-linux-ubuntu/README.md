@@ -36,3 +36,5 @@ Aucun prérequis technique n'est nécessaire pour ce module ! Tout ce dont vous 
 - L'envie d'apprendre quelque chose de nouveau
 
 Prêt à découvrir le monde de Linux et d'Ubuntu ? Commençons par explorer leur histoire fascinante et les concepts qui ont révolutionné l'informatique !
+
+⏭️ [Histoire et concepts du libre](/01-fondamentaux/module-1-introduction-linux-ubuntu/01-histoire-concepts-libre.md)

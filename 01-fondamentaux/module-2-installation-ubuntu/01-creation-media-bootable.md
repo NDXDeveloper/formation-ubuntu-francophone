@@ -214,4 +214,4 @@ Conservez cette clé USB précieusement : au-delà de l'installation, elle peut 
 
 ---
 
-**Prochaine section :** [2-2. Installation Desktop & Server]
+⏭️ [Installation Desktop & Server](/01-fondamentaux/module-2-installation-ubuntu/02-installation-desktop-server.md)

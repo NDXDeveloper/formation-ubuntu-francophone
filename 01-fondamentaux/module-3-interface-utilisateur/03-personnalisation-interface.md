@@ -483,4 +483,4 @@ Rappelez-vous que la personnalisation est un processus progressif - vous n'avez 
 
 ---
 
-**Prochaine section :** [3-4. Terminal : navigation et commandes de base]
+⏭️ [Accessibilité & ergonomie](/01-fondamentaux/module-3-interface-utilisateur/04-accessibilite-ergonomie.md)

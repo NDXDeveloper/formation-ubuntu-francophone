@@ -129,3 +129,5 @@ En utilisant Ubuntu, vous participez à cette longue tradition d'échange et de 
 ---
 
 📝 **Exercice de réflexion** : Comment les principes du logiciel libre pourraient-ils s'appliquer à d'autres domaines que l'informatique ? Pensez à des exemples concrets.
+
+⏭️ [Suivant : Ubuntu et ses variantes](/01-fondamentaux/module-1-introduction-linux-ubuntu/02-ubuntu-variantes.md)

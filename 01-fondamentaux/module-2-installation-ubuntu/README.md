@@ -54,3 +54,5 @@ Nous avons divisé ce module en étapes logiques qui suivent le processus comple
 4. Configuration post-installation pour optimiser votre système
 
 Prêt à installer Ubuntu et à faire vos premiers pas concrets avec ce système ? Commençons par la création d'un média bootable !
+
+⏭️ [Création de média bootable](/01-fondamentaux/module-2-installation-ubuntu/01-creation-media-bootable.md)

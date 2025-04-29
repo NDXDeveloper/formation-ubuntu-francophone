@@ -134,3 +134,5 @@ Vous pouvez améliorer l'ergonomie de votre bureau Ubuntu en installant des exte
 ---
 
 N'hésitez pas à explorer ces options pour personnaliser votre environnement Ubuntu selon vos besoins spécifiques. L'accessibilité et l'ergonomie sont essentielles pour une utilisation confortable et productive de votre système.
+
+⏭️ [NIVEAU 2 – UTILISATION COURANTE & LIGNE DE COMMANDE](/02-ligne-de-commande/README.md)

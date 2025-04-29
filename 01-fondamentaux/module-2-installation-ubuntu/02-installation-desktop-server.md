@@ -327,4 +327,4 @@ N'oubliez pas que la communauté Ubuntu est vaste et accueillante. Si vous renco
 
 ---
 
-**Prochaine section :** [2-3. Dual-boot avec Windows]
+⏭️ [Partitionnement, UEFI/BIOS](/01-fondamentaux/module-2-installation-ubuntu/03-partitionnement.md)

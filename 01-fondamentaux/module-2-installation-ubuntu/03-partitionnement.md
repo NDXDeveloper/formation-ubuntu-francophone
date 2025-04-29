@@ -303,4 +303,4 @@ En cas de doute ou de problème, n'hésitez pas à consulter la documentation Ub
 
 ---
 
-**Prochaine section :** [2-4. Dual-boot avec Windows]
+⏭️ [Post-installation](/01-fondamentaux/module-2-installation-ubuntu/04-post-installation.md)

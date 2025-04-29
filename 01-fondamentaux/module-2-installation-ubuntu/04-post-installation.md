@@ -549,4 +549,4 @@ Dans les chapitres suivants, nous explorerons plus en profondeur les fonctionnal
 
 ---
 
-**Prochaine section :** [3-1. Découverte de l'environnement de bureau]
+⏭️ [Module 3 – Interface utilisateur](/01-fondamentaux/module-3-interface-utilisateur/README.md)

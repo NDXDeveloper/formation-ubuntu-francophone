@@ -348,4 +348,4 @@ La puissance de GNOME réside dans son équilibre entre simplicité apparente et
 
 ---
 
-**Prochaine section :** [3-2. Les applications par défaut]
+⏭️ [Applications par défaut & gestion des fichiers](/01-fondamentaux/module-3-interface-utilisateur/02-applications-par-defaut.md)

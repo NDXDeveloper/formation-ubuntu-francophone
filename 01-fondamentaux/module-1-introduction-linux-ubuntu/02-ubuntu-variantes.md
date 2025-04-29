@@ -219,4 +219,4 @@ La beauté de l'écosystème Ubuntu est que toutes ces variantes partagent la m�
 
 ---
 
-**Prochaine section :** [1-3. Versions, LTS, mises à jour, Ubuntu Pro]
+⏭️ [Versions, LTS, mises à jour, Ubuntu Pro](/01-fondamentaux/module-1-introduction-linux-ubuntu/03-versions-lts-mises-a-jour.md)

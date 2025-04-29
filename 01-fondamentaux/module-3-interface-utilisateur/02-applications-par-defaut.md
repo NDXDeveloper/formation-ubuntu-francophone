@@ -453,4 +453,4 @@ N'hésitez pas à explorer les différentes applications disponibles dans Logici
 
 ---
 
-**Prochaine section :** [3-3. Terminal : navigation et commandes de base]
+⏭️ [Personnalisation de l'interface](/01-fondamentaux/module-3-interface-utilisateur/03-personnalisation-interface.md)

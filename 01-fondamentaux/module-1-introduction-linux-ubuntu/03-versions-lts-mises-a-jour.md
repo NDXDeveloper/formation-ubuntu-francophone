@@ -251,4 +251,4 @@ Le système de versions d'Ubuntu, avec son alternance de versions régulières e
 
 ---
 
-**Prochaine section :** [1-4. Ubuntu vs autres OS]
+⏭️ [Ubuntu vs autres OS](/01-fondamentaux/module-1-introduction-linux-ubuntu/04-ubuntu-vs-autres-os.md)

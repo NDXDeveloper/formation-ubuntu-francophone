@@ -55,3 +55,5 @@ Si vous venez de Windows ou macOS, vous remarquerez quelques différences :
 Ne vous inquiétez pas ! Vous vous habituerez rapidement à ces changements, et vous découvrirez de nombreuses fonctionnalités qui rendront votre expérience utilisateur agréable et productive.
 
 Prêt à explorer votre nouveau bureau Ubuntu ? Commençons par découvrir l'environnement GNOME et ses fonctionnalités essentielles !
+
+⏭️ [GNOME : navigation, raccourcis, multi-bureaux](/01-fondamentaux/module-3-interface-utilisateur/01-gnome-navigation.md)

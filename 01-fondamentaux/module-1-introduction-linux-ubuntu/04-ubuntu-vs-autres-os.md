@@ -276,4 +276,4 @@ Ces réflexions vous aideront à déterminer si Ubuntu correspond à vos besoins
 
 ---
 
-**Prochaine section :** [2-1. Création de média bootable]
+⏭️ [Module 2 – Installation d'Ubuntu](/01-fondamentaux/module-2-installation-ubuntu/README.md)
