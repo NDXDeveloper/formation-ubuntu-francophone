@@ -551,3 +551,5 @@ Cette annexe vous a fourni les commandes essentielles et scripts types dont vous
 Rappelez-vous que la pratique est la clé : plus vous utiliserez ces commandes, plus elles deviendront naturelles. N'hésitez pas à expérimenter dans un environnement de test avant d'appliquer vos scripts à des systèmes critiques.
 
 Bonne automatisation !
+
+⏭️ [Mémento Permissions Ubuntu](/annexes/mementos/permissions.md)

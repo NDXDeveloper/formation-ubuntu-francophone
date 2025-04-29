@@ -382,3 +382,5 @@ Ubuntu dispose d'une communauté exceptionnelle et de ressources abondantes pour
 Rappelez-vous : personne ne naît expert en Ubuntu. Nous avons tous commencé par les bases et progressé grâce à la pratique, la curiosité et l'aide de la communauté.
 
 Bonne exploration et bon apprentissage !
+
+⏭️ [Glossaire Linux / Ubuntu](/annexes/glossaire-linux-ubuntu.md)

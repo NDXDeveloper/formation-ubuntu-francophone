@@ -211,3 +211,5 @@ chmod 640 /var/www/monsite/config.php
 5. **Utilisez des groupes** : Créez des groupes pour gérer les accès plutôt que de donner des droits à "other"
 6. **Protégez les fichiers de configuration** : Restreignez l'accès aux fichiers contenant des mots de passe
 7. **Limitez les droits d'exécution** : N'accordez les droits d'exécution que si nécessaire
+
+⏭️ [Mémento Services Ubuntu](/annexes/mementos/services.md)

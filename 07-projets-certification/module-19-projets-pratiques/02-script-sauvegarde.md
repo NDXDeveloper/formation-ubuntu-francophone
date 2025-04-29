@@ -407,3 +407,5 @@ Pour vous familiariser avec ce script, essayez ces exercices :
 - [Guide de cron](https://crontab.guru/)
 - [Tutoriel sur tar](https://www.tecmint.com/18-tar-command-examples-in-linux/)
 - [Guide de sauvegarde Ubuntu](https://help.ubuntu.com/community/BackupYourSystem)
+
+⏭️ [Stack web conteneurisée](/07-projets-certification/module-19-projets-pratiques/03-stack-web-conteneurisee.md)

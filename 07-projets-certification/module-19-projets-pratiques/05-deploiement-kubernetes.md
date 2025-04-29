@@ -584,3 +584,5 @@ Vous avez maintenant une compréhension de base de Kubernetes et de son fonction
 - [Minikube - Documentation](https://minikube.sigs.k8s.io/docs/)
 - [Kubernetes Patterns](https://www.redhat.com/en/resources/oreilly-kubernetes-patterns-cloud-native-apps)
 - [Kubernetes: Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/)
+
+⏭️ [Projet Kubernetes avancé](/07-projets-certification/module-19-projets-pratiques/06-projet-kubernetes-cluster.md)

@@ -221,3 +221,5 @@ Que vous utilisiez Ubuntu dans un cadre personnel, professionnel ou que vous vis
 - **CompTIA Linux+** : [https://www.comptia.org/certifications/linux](https://www.comptia.org/certifications/linux)
 - **Forum Ubuntu francophone** : [https://forum.ubuntu-fr.org/](https://forum.ubuntu-fr.org/)
 - **Documentation Ubuntu** : [https://help.ubuntu.com/](https://help.ubuntu.com/)
+
+⏭️ [ANNEXES & RESSOURCES](/annexes/README.md)

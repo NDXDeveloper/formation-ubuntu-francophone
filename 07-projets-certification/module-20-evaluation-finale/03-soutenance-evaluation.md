@@ -286,3 +286,5 @@ Bonne préparation et bonne chance pour votre soutenance !
 - [ ] Copies de sauvegarde créées
 - [ ] Tenue professionnelle prête
 - [ ] Trajet planifié pour arriver à l'heure
+
+⏭️ [Attestation ou certificat](/07-projets-certification/module-20-evaluation-finale/04-attestation-certificat.md)

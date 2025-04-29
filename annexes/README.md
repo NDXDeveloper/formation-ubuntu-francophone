@@ -57,3 +57,5 @@ Une fois à l'aise avec Ubuntu, pensez à :
 Les annexes et ressources qui suivent sont conçues pour être pratiques, accessibles et utiles tant pour les débutants que pour les utilisateurs avancés. N'hésitez pas à y revenir régulièrement tout au long de votre progression.
 
 Explorons maintenant les différentes ressources à votre disposition !
+
+⏭️ [Commandes essentielles & scripts types](/annexes/commandes-essentielles.md)

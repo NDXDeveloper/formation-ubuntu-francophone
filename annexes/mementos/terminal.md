@@ -122,3 +122,5 @@
 | `alias` | Crée un raccourci de commande | `alias ll='ls -la'` |
 | `uname -a` | Affiche les informations système | `uname -a` |
 | `lsb_release -a` | Affiche la version d'Ubuntu | `lsb_release -a` |
+
+⏭️ [Forums et docs recommandés](/annexes/ressources-forums-docs.md)

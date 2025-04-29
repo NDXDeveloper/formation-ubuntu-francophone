@@ -473,3 +473,5 @@ Ce projet intègre plusieurs aspects importants de l'administration système sou
 - [Let's Encrypt](https://letsencrypt.org/fr/docs/)
 - [Documentation de Netdata](https://learn.netdata.cloud/)
 - [Guide de sécurisation d'Ubuntu Server](https://ubuntu.com/server/docs/security-introduction)
+
+⏭️ [Script complet de sauvegarde & envoi mail](/07-projets-certification/module-19-projets-pratiques/02-script-sauvegarde.md)

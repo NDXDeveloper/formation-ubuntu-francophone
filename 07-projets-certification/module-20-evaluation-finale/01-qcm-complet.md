@@ -470,3 +470,5 @@ Si vous avez eu des difficultés avec certaines questions, voici les modules cor
 - Questions 36-50 : RÉVISION GÉNÉRALE (commandes et concepts essentiels)
 
 N'hésitez pas à revoir les modules correspondants et à pratiquer davantage pour améliorer vos compétences !
+
+⏭️ [TP noté ou projet à rendre](/07-projets-certification/module-20-evaluation-finale/02-tp-note.md)

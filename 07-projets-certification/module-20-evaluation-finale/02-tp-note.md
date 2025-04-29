@@ -260,3 +260,5 @@ R : Absolument ! L'initiative et la créativité sont encouragées et valorisée
 ---
 
 Bon courage pour la réalisation de votre projet ! C'est l'occasion de mettre en pratique tout ce que vous avez appris et de développer davantage vos compétences sur Ubuntu.
+
+⏭️ [Soutenance / évaluation finale](/07-projets-certification/module-20-evaluation-finale/03-soutenance-evaluation.md)

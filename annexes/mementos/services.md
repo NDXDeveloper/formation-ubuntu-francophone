@@ -349,3 +349,5 @@ La gestion efficace des services sous Ubuntu avec systemd est essentielle pour m
 3. **Surveillance** : Mettez en place des alertes pour être informé des problèmes
 4. **Sauvegarde** : Sauvegardez toujours les fichiers de configuration avant modification
 5. **Test** : Testez les modifications dans un environnement non critique avant la production
+
+⏭️ [Mémento Terminal Ubuntu](/annexes/mementos/terminal.md)

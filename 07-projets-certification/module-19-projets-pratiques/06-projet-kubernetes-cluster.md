@@ -664,3 +664,5 @@ Ce projet vous a donné un aperçu d'un environnement Kubernetes proche de la pr
 - [Patterns d'architecture Kubernetes](https://k8spatterns.io/)
 - [Kubernetes : Le guide complet](https://www.kubernetesbestpractices.com/)
 - [Hands-on Kubernetes Workshops](https://kube.academy/)
+
+⏭️ [Module 20 – Évaluation finale](/07-projets-certification/module-20-evaluation-finale/README.md)

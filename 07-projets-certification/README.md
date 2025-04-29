@@ -70,3 +70,5 @@ Une fois cette formation complétée, plusieurs chemins s'ouvrent à vous :
 À la fin de ce niveau, vous ne serez plus simplement un utilisateur d'Ubuntu, mais un véritable expert capable de gérer, optimiser et déployer des systèmes Ubuntu dans divers contextes, du personnel au professionnel.
 
 Prêt à concrétiser tout ce que vous avez appris ? Commençons avec le Module 19 !
+
+⏭️ [Module 19 – Projets pratiques](/07-projets-certification/module-19-projets-pratiques/README.md)

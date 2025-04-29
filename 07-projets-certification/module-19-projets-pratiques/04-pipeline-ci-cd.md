@@ -711,3 +711,5 @@ Ce workflow automatisé vous permettra de livrer des applications de meilleure q
 - [GitHub Actions Marketplace](https://github.com/marketplace?type=actions)
 - [Bonnes pratiques CI/CD](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 - [Patterns d'architecture CI/CD](https://www.jetbrains.com/teamcity/ci-cd-guide/)
+
+⏭️ [Déploiement Kubernetes d'une application web](/07-projets-certification/module-19-projets-pratiques/05-deploiement-kubernetes.md)

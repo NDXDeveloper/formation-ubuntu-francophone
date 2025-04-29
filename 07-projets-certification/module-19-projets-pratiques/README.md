@@ -61,3 +61,5 @@ Ces projets serviront de base pour votre évaluation finale. Vous serez jugé su
 - La **présentation** : Êtes-vous capable d'expliquer clairement votre projet ?
 
 Prêt à relever ces défis et à démontrer vos compétences Ubuntu ? Commençons par le premier projet !
+
+⏭️ [Déployer un site avec sécurité & monitoring](/07-projets-certification/module-19-projets-pratiques/01-deployer-site-web.md)

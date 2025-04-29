@@ -72,3 +72,5 @@ Une fois l'évaluation terminée :
 - Des ressources pour approfondir les domaines qui vous intéressent
 
 Rappelez-vous que cette évaluation n'est pas seulement un test, mais aussi une opportunité d'apprentissage et de progression. Donnez le meilleur de vous-même et soyez fier du chemin parcouru !
+
+⏭️ [QCM complet](/07-projets-certification/module-20-evaluation-finale/01-qcm-complet.md)

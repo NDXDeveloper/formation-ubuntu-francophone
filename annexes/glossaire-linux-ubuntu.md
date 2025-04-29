@@ -345,3 +345,5 @@ Redirige la sortie d'une commande vers un fichier, en ajoutant au contenu exista
 Ce glossaire n'est pas exhaustif, mais il couvre les termes les plus courants que vous rencontrerez en utilisant Ubuntu. N'hésitez pas à le consulter chaque fois que vous tombez sur un terme inconnu. La communauté Ubuntu est également très active et prête à vous aider si vous avez des questions sur ces concepts ou d'autres aspects du système.
 
 Rappelez-vous que chaque expert a commencé comme débutant, et que la maîtrise d'Ubuntu vient avec la pratique et la curiosité. Bonne exploration du monde Linux !
+
+⏭️ [Outils pro](/annexes/outils-professionnels.md)

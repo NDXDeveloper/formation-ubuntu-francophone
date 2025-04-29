@@ -479,3 +479,5 @@ Cette méthode est utilisée par de nombreuses entreprises pour déployer leurs 
 - [Documentation de Docker Compose](https://docs.docker.com/compose/)
 - [Docker Hub](https://hub.docker.com/) - Catalogue d'images Docker
 - [Bonnes pratiques pour Docker en production](https://docs.docker.com/develop/dev-best-practices/)
+
+⏭️ [Pipeline CI/CD automatisé](/07-projets-certification/module-19-projets-pratiques/04-pipeline-ci-cd.md)
