@@ -226,3 +226,6 @@ sudo find / -perm -2000 -type f -exec ls -l {} \; 2>/dev/null
 - Ces permissions sont puissantes mais doivent être utilisées avec précaution
 
 Dans le prochain module (5-4), nous aborderons les ACL (Access Control Lists) et les méthodes avancées de sécurisation des accès aux fichiers.
+
+⏭️ [ACL & sécurité des accès](/02-ligne-de-commande/module-5-fichiers-permissions/04-acl-securite.md)
+

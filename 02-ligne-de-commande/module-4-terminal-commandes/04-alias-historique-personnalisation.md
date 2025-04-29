@@ -415,3 +415,6 @@ Personnaliser votre shell permet de créer un environnement de travail adapté �
 - [Oh My Bash sur GitHub](https://github.com/ohmybash/oh-my-bash)
 - [Oh My Zsh sur GitHub](https://github.com/ohmyzsh/ohmyzsh)
 - [Explications détaillées sur les variables PS1](http://www.tldp.org/HOWTO/Bash-Prompt-HOWTO/)
+
+⏭️ [Module 5 – Fichiers, permissions et sécurité de base](/02-ligne-de-commande/module-5-fichiers-permissions/README.md)
+

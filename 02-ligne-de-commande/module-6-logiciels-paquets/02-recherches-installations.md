@@ -386,3 +386,6 @@ sudo apt --fix-broken install
 - Le nettoyage régulier de votre système aide à maintenir ses performances
 
 Dans le prochain module (6-3), nous explorerons les dépôts, les PPA et comment gérer efficacement les mises à jour du système.
+
+⏭️ [Dépôts, PPA, mises à jour](/02-ligne-de-commande/module-6-logiciels-paquets/03-depots-ppa-mises-a-jour.md)
+

@@ -57,3 +57,6 @@ Dans les prochaines parties, nous aborderons en détail :
 - Les listes de contrôle d'accès pour une gestion plus fine des permissions
 
 Prenez votre temps pour bien assimiler ces concepts fondamentaux, car ils sont essentiels pour une utilisation sécurisée et efficace d'Ubuntu.
+
+⏭️ [Propriétés fichiers, utilisateurs/groupes](/02-ligne-de-commande/module-5-fichiers-permissions/01-proprietes-fichiers.md)
+

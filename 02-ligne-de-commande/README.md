@@ -49,3 +49,6 @@ Avant de commencer, assurez-vous d'avoir :
 À la fin de ce niveau, vous serez capable d'utiliser le terminal pour des tâches courantes, de gérer les permissions de vos fichiers et d'installer des logiciels de différentes manières. Ces compétences constituent les fondations essentielles pour devenir un utilisateur Ubuntu autonome et efficace.
 
 Prêt à découvrir le pouvoir de la ligne de commande ? Commençons avec le Module 4 !
+
+⏭️ [Module 4 – Terminal & commandes essentielles](/02-ligne-de-commande/module-4-terminal-commandes/README.md)
+

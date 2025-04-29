@@ -164,3 +164,6 @@ La gestion appropriée des propriétaires et des groupes est cruciale pour la s�
 - Les groupes permettent de partager l'accès aux fichiers entre plusieurs utilisateurs
 
 Dans le prochain module (5-2), nous verrons comment modifier ces propriétés et gérer les permissions avec les commandes `chmod` et `chown`.
+
+⏭️ [chmod, chown, umask, stat](/02-ligne-de-commande/module-5-fichiers-permissions/02-chmod-chown-umask-stat.md)
+

@@ -239,3 +239,6 @@ En plus des ACL, d'autres mécanismes de sécurité sont disponibles sous Ubuntu
 Vous avez maintenant terminé le Module 5 sur les fichiers, permissions et sécurité de base dans Ubuntu. Vous disposez désormais des connaissances nécessaires pour gérer efficacement les droits d'accès à vos fichiers et dossiers, que ce soit avec les permissions standard, les permissions spéciales ou les ACL.
 
 Le prochain module (Module 6) traitera de la gestion des logiciels et des paquets sous Ubuntu.
+
+⏭️ [Module 6 – Logiciels et gestion des paquets](/02-ligne-de-commande/module-6-logiciels-paquets/README.md)
+

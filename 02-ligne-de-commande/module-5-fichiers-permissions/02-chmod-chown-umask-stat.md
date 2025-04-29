@@ -234,3 +234,6 @@ echo "umask 027" >> ~/.bashrc
 4. **Vérifiez régulièrement** : contrôlez les permissions des fichiers sensibles
 
 Dans le prochain module (5-3), nous explorerons les permissions spéciales comme SUID, SGID et sticky bit, qui offrent des fonctionnalités avancées pour la gestion des accès.
+
+⏭️ [Permissions spéciales](/02-ligne-de-commande/module-5-fichiers-permissions/03-permissions-speciales.md)
+

@@ -353,3 +353,6 @@ Si vous préférez une interface graphique plutôt que les lignes de commande, U
 - **AppImage** : Applications portables qui ne nécessitent pas d'installation
 
 Dans le prochain module (6-2), nous approfondirons comment effectuer des recherches de paquets, installer des logiciels spécifiques, et gérer efficacement les installations.
+
+⏭️ [Recherches, installations, suppressions](/02-ligne-de-commande/module-6-logiciels-paquets/02-recherches-installations.md)
+

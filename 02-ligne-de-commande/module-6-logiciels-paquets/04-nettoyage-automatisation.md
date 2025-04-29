@@ -212,3 +212,6 @@ Stacer offre des fonctionnalités de nettoyage, de désinstallation, de gestion 
 Le nettoyage et l'automatisation de la maintenance sous Ubuntu sont des pratiques essentielles pour garder votre système performant. Les commandes et outils présentés dans ce tutoriel vous permettront de maintenir votre système Ubuntu propre et à jour avec un minimum d'effort.
 
 N'hésitez pas à explorer d'autres techniques de maintenance au fur et à mesure que vous gagnez en expérience avec Ubuntu.
+
+⏭️ [NIVEAU 3 – ADMINISTRATION SYSTÈME](/03-administration-systeme/README.md)
+

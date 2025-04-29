@@ -67,3 +67,6 @@ Préparons-nous à découvrir comment Ubuntu simplifie la gestion des logiciels 
 ---
 
 Passons maintenant aux différents outils de gestion de paquets disponibles sous Ubuntu.
+
+⏭️ [apt, dpkg, snap, flatpak, AppImage](/02-ligne-de-commande/module-6-logiciels-paquets/01-apt-dpkg-snap-flatpak.md)
+

@@ -60,3 +60,6 @@ Pour suivre ce module, vous aurez besoin de :
 N'oubliez pas : tous les grands experts ont commencé comme vous, en apprenant une commande à la fois. Le terminal deviendra bientôt votre meilleur allié pour maîtriser Ubuntu !
 
 Prêt à découvrir la puissance de la ligne de commande ? Commençons par explorer les différents shells et l'organisation des fichiers système !
+
+⏭️ [Bash, Zsh, arborescence système](/02-ligne-de-commande/module-4-terminal-commandes/01-bash-zsh-arborescence.md)
+

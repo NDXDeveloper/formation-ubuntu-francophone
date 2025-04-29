@@ -301,3 +301,6 @@ Voici quelques exercices pour mettre en pratique ces commandes :
 ---
 
 Maintenant que vous maîtrisez la navigation et la manipulation des fichiers, vous disposez des compétences fondamentales pour utiliser efficacement le terminal Ubuntu. Dans la prochaine section, nous explorerons les pipes, redirections et variables, qui vous permettront d'améliorer encore votre productivité.
+
+⏭️ [Pipes, redirections, variables](/02-ligne-de-commande/module-4-terminal-commandes/03-pipes-redirections-variables.md)
+

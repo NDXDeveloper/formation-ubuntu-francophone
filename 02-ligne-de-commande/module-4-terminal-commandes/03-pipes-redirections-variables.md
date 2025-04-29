@@ -328,3 +328,6 @@ echo "Il y a $(ls | wc -l) fichiers dans ce répertoire"
 ---
 
 Les pipes, redirections et variables sont des outils essentiels qui vous permettront de manipuler efficacement les données dans le terminal Ubuntu. Avec ces concepts, vous pouvez créer des commandes personnalisées puissantes pour automatiser vos tâches quotidiennes. Dans la prochaine section, nous découvrirons comment personnaliser votre shell avec des alias et d'autres configurations.
+
+⏭️ [Alias, historique, personnalisation shell](/02-ligne-de-commande/module-4-terminal-commandes/04-alias-historique-personnalisation.md)
+

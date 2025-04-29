@@ -174,3 +174,6 @@ Remplacez `CLEF_MANQUANTE` par la clé indiquée dans le message d'erreur.
 La gestion des dépôts, des PPA et des mises à jour est une compétence fondamentale pour utiliser Ubuntu efficacement. En comprenant ces concepts et en appliquant les bonnes pratiques, vous pourrez maintenir votre système à jour et installer les logiciels dont vous avez besoin en toute sécurité.
 
 Pour en savoir plus, consultez la documentation officielle d'Ubuntu ou les forums de la communauté.
+
+⏭️ [Nettoyage, automatisation](/02-ligne-de-commande/module-6-logiciels-paquets/04-nettoyage-automatisation.md)
+

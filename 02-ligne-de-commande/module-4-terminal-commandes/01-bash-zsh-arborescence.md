@@ -225,3 +225,5 @@ Utilisez la touche `Tab` pour compléter automatiquement les commandes ou les no
 ---
 
 Avec ces bases sur les shells et l'arborescence système, vous êtes désormais prêt à explorer davantage le terminal Linux. Dans les prochaines sections, nous approfondirons l'utilisation des commandes et la manipulation des fichiers.
+
+⏭️ [Navigation, manipulation de fichiers](/02-ligne-de-commande/module-4-terminal-commandes/02-navigation-manipulation-fichiers.md)
