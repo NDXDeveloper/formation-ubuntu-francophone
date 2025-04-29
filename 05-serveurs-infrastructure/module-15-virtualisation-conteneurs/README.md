@@ -128,3 +128,5 @@ Préparez-vous à découvrir comment ces technologies peuvent transformer votre 
 ---
 
 Passons maintenant aux solutions de virtualisation disponibles sous Ubuntu.
+
+⏭️ [KVM/QEMU, VirtualBox](/05-serveurs-infrastructure/module-15-virtualisation-conteneurs/01-kvm-virtualbox.md)

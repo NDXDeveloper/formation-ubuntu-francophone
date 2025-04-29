@@ -118,3 +118,5 @@ Préparez-vous à découvrir comment Ubuntu Server peut vous permettre de mettre
 ---
 
 Passons maintenant à l'installation minimaliste d'Ubuntu Server.
+
+⏭️ [Installation minimaliste](/05-serveurs-infrastructure/module-13-ubuntu-server/01-installation-minimaliste.md)

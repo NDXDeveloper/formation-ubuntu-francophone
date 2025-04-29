@@ -398,3 +398,5 @@ Vous avez maintenant configuré votre réseau et sécurisé l'accès SSH à votr
 ---
 
 Dans le prochain module, nous verrons comment mettre en place les bases de la sécurité sur votre serveur Ubuntu.
+
+⏭️ [Sécurité de base & accès distant](/05-serveurs-infrastructure/module-13-ubuntu-server/03-securite-acces-distant.md)

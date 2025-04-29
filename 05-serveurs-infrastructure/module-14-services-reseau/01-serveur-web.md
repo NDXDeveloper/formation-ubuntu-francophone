@@ -335,3 +335,5 @@ Votre choix dépendra de vos besoins spécifiques, mais les deux options sont ex
 - [Documentation officielle d'Apache](https://httpd.apache.org/docs/)
 - [Documentation officielle de Nginx](https://nginx.org/en/docs/)
 - [Guide Ubuntu Server](https://ubuntu.com/server/docs)
+
+⏭️ [Serveur SSH: durcissement, logs](/05-serveurs-infrastructure/module-14-services-reseau/02-serveur-ssh.md)

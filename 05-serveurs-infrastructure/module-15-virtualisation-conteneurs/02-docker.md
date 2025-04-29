@@ -530,3 +530,5 @@ N'hésitez pas à explorer davantage Docker Compose et Docker Swarm pour orchest
 - [Docker Hub](https://hub.docker.com/) - Référentiel d'images Docker
 - [Play with Docker](https://labs.play-with-docker.com/) - Environnement en ligne pour tester Docker
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - Liste de ressources Docker
+
+⏭️ [Docker Compose, LXC/LXD](/05-serveurs-infrastructure/module-15-virtualisation-conteneurs/03-docker-compose-lxc.md)

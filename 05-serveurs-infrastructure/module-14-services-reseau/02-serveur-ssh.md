@@ -315,3 +315,5 @@ N'oubliez pas que la sécurité est un processus continu et qu'il est important 
 - [Documentation officielle d'OpenSSH](https://www.openssh.com/manual.html)
 - [Guide de sécurité Ubuntu](https://ubuntu.com/security)
 - [Documentation Fail2Ban](https://www.fail2ban.org/wiki/index.php/Main_Page)
+
+⏭️ [Partage fichiers: Samba, NFS, FTP](/05-serveurs-infrastructure/module-14-services-reseau/03-partage-fichiers.md)

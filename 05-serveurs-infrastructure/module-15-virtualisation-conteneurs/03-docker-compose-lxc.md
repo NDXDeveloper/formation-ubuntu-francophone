@@ -725,3 +725,5 @@ En maîtrisant ces deux technologies, vous disposerez d'un arsenal complet pour 
 - [Documentation LXD](https://linuxcontainers.org/lxd/documentation/)
 - [Forum Ubuntu sur la virtualisation](https://discourse.ubuntu.com/c/server/virtualisation/148)
 - [LXD sur le hub Snap](https://snapcraft.io/lxd)
+
+⏭️ [Comparatif VM vs conteneurs](/05-serveurs-infrastructure/module-15-virtualisation-conteneurs/04-comparatif-vm-conteneurs.md)

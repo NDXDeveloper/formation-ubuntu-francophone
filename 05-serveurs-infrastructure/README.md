@@ -70,3 +70,5 @@ Ce niveau marque une transition importante : vous passez du statut d'utilisateur
 À la fin de ce niveau, vous serez capable de configurer et gérer votre propre serveur, d'héberger divers services et de comprendre les fondamentaux de la virtualisation moderne.
 
 Prêt à plonger dans le monde des serveurs et de l'infrastructure ? Commençons avec le Module 13 !
+
+⏭️ [Module 13 – Ubuntu Server](/05-serveurs-infrastructure/module-13-ubuntu-server/README.md)

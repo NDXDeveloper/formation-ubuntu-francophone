@@ -272,3 +272,5 @@ Vous disposez maintenant d'une installation minimaliste d'Ubuntu Server! Cette b
 ---
 
 Dans le prochain module, nous verrons comment configurer les accès réseau et SSH de manière plus approfondie pour permettre l'administration à distance sécurisée de votre serveur Ubuntu.
+
+⏭️ [Configuration initiale réseau, SSH](/05-serveurs-infrastructure/module-13-ubuntu-server/02-configuration-reseau-ssh.md)
