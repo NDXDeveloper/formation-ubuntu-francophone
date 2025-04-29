@@ -1,5 +1,6 @@
- 
 # 2-3. Partitionnement, UEFI/BIOS
+
+🔝 Retour à la [Table des matières](#table-des-matières)
 
 ## Introduction
 

@@ -1,5 +1,7 @@
 # 21-3. Forums et docs recommandés
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 L'une des plus grandes forces d'Ubuntu et de Linux en général est sa communauté active et solidaire. Quel que soit votre problème ou votre question, il est fort probable que quelqu'un y ait déjà été confronté et ait partagé la solution. Ce chapitre vous présente les meilleures ressources pour trouver de l'aide, apprendre de nouvelles choses et rester à jour avec Ubuntu.

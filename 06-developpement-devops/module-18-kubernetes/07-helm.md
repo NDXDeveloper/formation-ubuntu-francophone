@@ -1,5 +1,7 @@
 # 18-7. Introduction à Helm : gestion des applications Kubernetes
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Déployer et gérer des applications sur Kubernetes peut rapidement devenir complexe. Pour une simple application, vous devez souvent créer et maintenir plusieurs fichiers YAML : Deployments, Services, ConfigMaps, Secrets, etc. Si vous gérez plusieurs environnements (développement, test, production) ou plusieurs applications, cette complexité augmente considérablement.

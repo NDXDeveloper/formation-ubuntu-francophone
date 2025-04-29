@@ -1,5 +1,7 @@
 # 9-3. Surveillance des ressources système : `htop`, `iotop`, `free`, `df`
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 La surveillance des ressources système est essentielle pour comprendre comment votre ordinateur utilise le processeur, la mémoire, les disques et autres ressources. Ubuntu offre plusieurs outils en ligne de commande pour cette tâche. Dans ce module, nous allons découvrir quatre outils fondamentaux pour surveiller les performances de votre système.
 
 ## htop : Le gestionnaire de processus interactif

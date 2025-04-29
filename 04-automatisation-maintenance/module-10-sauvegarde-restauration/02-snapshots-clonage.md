@@ -1,5 +1,7 @@
 # 10-2. Snapshots, clonage (`dd`, Clonezilla)
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 Dans ce module, nous allons explorer des techniques avancées de sauvegarde système : les snapshots et le clonage complet de disques. Ces méthodes vous permettront de créer des copies exactes de votre système ou de vos disques, offrant ainsi une protection maximale ou la possibilité de dupliquer rapidement des installations.
 
 ## Snapshots : captures instantanées du système

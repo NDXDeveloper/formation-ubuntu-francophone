@@ -1,5 +1,7 @@
 # Groupes, sudo et droits administratifs sous Ubuntu
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Dans ce module, nous allons explorer le concept des groupes d'utilisateurs sous Ubuntu, l'utilisation de la commande `sudo` pour exécuter des tâches administratives, et comment gérer les droits d'administration sur votre système. Ces connaissances sont essentielles pour sécuriser votre système Ubuntu tout en permettant aux utilisateurs d'accomplir les tâches nécessaires.

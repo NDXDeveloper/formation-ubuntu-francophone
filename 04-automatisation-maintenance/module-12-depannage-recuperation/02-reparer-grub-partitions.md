@@ -1,5 +1,7 @@
 # 12-5. Réparer GRUB, partitions, système bloqué
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Quand votre système Ubuntu refuse de démarrer correctement ou que vous rencontrez des problèmes avec GRUB (le chargeur d'amorçage), il n'y a pas lieu de paniquer. Ce guide vous présentera les étapes pour diagnostiquer et réparer les problèmes les plus courants.

@@ -1,5 +1,7 @@
 # 13-1. Installation minimaliste
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Une installation minimaliste d'Ubuntu Server vous permet de déployer un système léger, rapide et sécurisé, contenant uniquement les composants essentiels dont vous avez besoin. Cette approche est idéale pour les serveurs, les machines virtuelles, ou les systèmes aux ressources limitées. Ce guide vous accompagnera étape par étape dans ce processus.

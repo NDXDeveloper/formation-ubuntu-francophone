@@ -1,5 +1,7 @@
 # 9-4. Optimisation mémoire, CPU, démarrage
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 L'optimisation de votre système Ubuntu peut considérablement améliorer ses performances et votre expérience utilisateur. Dans ce module, nous allons explorer différentes techniques pour optimiser la mémoire, le CPU et le démarrage de votre système.
 
 ## Optimisation de la mémoire

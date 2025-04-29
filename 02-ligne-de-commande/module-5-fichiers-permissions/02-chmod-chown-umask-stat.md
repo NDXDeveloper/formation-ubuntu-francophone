@@ -1,5 +1,7 @@
 # Module 5 – Fichiers, permissions et sécurité de base
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## 5-2. `chmod`, `chown`, `umask`, `stat`
 
 Dans cette section, nous allons apprendre à gérer les propriétés et les permissions des fichiers dans Ubuntu. Ces commandes vous permettront de contrôler qui peut accéder à vos fichiers et ce qu'ils peuvent en faire.

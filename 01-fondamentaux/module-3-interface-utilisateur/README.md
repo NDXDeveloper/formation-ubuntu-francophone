@@ -1,5 +1,7 @@
 ### Module 3 – Interface utilisateur
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 Bienvenue dans le Module 3 de notre formation Ubuntu ! Maintenant que vous avez installé votre système, il est temps de vous familiariser avec l'interface utilisateur d'Ubuntu et d'apprendre à naviguer efficacement dans votre nouvel environnement.
 
 #### Objectifs du module

@@ -1,5 +1,7 @@
 # 17-3. Ansible, début de l'Infrastructure as Code
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 L'Infrastructure as Code (IaC) représente une révolution dans la gestion des systèmes informatiques. Au lieu de configurer manuellement vos serveurs et applications, vous décrivez votre infrastructure dans des fichiers texte que vous pouvez partager, versionner et automatiser. Ansible est l'un des outils les plus populaires et accessibles pour débuter avec l'IaC, et c'est ce que nous allons explorer dans ce tutoriel.

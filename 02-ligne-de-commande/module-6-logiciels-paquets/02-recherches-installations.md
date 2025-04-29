@@ -1,5 +1,7 @@
 # Module 6 – Logiciels et gestion des paquets
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## 6-2. Recherches, installations, suppressions
 
 Dans cette section, nous allons apprendre comment rechercher efficacement des logiciels, les installer proprement et les supprimer correctement lorsque vous n'en avez plus besoin. Ces opérations font partie du quotidien d'un utilisateur Ubuntu, et maîtriser ces compétences vous permettra de gérer votre système avec confiance.

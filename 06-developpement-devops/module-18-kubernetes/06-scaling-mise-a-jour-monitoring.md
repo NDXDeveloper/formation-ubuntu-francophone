@@ -1,5 +1,7 @@
 # 18-6. Scaling, mise à jour, monitoring avec Prometheus
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Dans ce module, nous allons explorer trois aspects essentiels de la gestion d'applications dans Kubernetes : la mise à l'échelle (scaling), les stratégies de mise à jour, et la surveillance (monitoring) avec Prometheus. Ces compétences sont indispensables pour gérer efficacement des applications en production sur Kubernetes.

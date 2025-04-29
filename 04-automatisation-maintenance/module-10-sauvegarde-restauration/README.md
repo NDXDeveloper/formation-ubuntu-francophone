@@ -1,5 +1,7 @@
 # Module 10 – Sauvegarde & restauration
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Bienvenue dans le Module 10 de notre formation Ubuntu ! Dans ce module, nous allons explorer un sujet crucial que beaucoup d'utilisateurs négligent jusqu'à ce qu'il soit trop tard : la sauvegarde et la restauration de vos données et de votre système.

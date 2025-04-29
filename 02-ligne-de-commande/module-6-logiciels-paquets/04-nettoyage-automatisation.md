@@ -1,5 +1,7 @@
 # Tutoriel Ubuntu - Nettoyage et automatisation des paquets
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Après avoir utilisé Ubuntu pendant un certain temps, votre système peut accumuler des fichiers inutiles liés à la gestion des paquets. Ce tutoriel vous expliquera comment nettoyer votre système et comment automatiser certaines tâches de maintenance. Ces techniques vous aideront à conserver un système Ubuntu propre, efficace et à jour.

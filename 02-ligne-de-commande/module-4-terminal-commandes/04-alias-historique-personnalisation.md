@@ -1,5 +1,7 @@
 # 4-4. Alias, historique, personnalisation shell
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Après avoir appris les bases de la ligne de commande, il est temps de découvrir comment personnaliser votre expérience pour la rendre plus agréable et efficace. Dans cette section, nous explorerons les alias pour simplifier les commandes complexes, l'utilisation de l'historique pour retrouver et réutiliser vos commandes précédentes, et diverses méthodes pour personnaliser votre shell selon vos préférences.

@@ -1,5 +1,7 @@
 # 8-2. Analyse réseau : `ping`, `ss`, `nmap`, `traceroute`
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 Dans cette section, nous allons explorer les outils essentiels pour analyser le réseau sous Ubuntu. Ces commandes vous permettront de diagnostiquer des problèmes de connexion, vérifier l'état du réseau et explorer votre environnement réseau.
 
 ## 📌 `ping` - Le test de connectivité de base

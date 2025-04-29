@@ -1,5 +1,7 @@
 # 16-4. LAMP, Django, Flask, React en local
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 La mise en place d'un environnement de développement web local est une étape essentielle pour tout développeur. Cela vous permet de créer, tester et déboguer vos applications web sans avoir besoin d'un serveur distant.

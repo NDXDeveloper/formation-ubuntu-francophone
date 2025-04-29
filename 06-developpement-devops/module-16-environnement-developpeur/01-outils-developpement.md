@@ -1,5 +1,7 @@
 # 16-1. Outils : VS Code, Vim, JetBrains
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Les éditeurs de code et environnements de développement intégrés (IDE) sont essentiels pour tout développeur. Ils peuvent considérablement améliorer votre productivité et rendre le développement plus agréable. Dans ce chapitre, nous allons explorer trois outils populaires sous Ubuntu :

@@ -1,5 +1,7 @@
 ## NIVEAU 1 – FONDAMENTAUX & PRISE EN MAIN
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 Bienvenue dans le premier niveau de notre formation Ubuntu ! Cette section est spécialement conçue pour vous accompagner dans vos premiers pas avec ce système d'exploitation Linux convivial et puissant.
 
 ### Objectifs du niveau
@@ -44,3 +46,6 @@ Pour suivre ce niveau, vous aurez besoin de :
 À la fin de ce niveau, vous serez capable d'utiliser Ubuntu pour des tâches quotidiennes et vous aurez acquis les fondations nécessaires pour approfondir votre maîtrise de ce système d'exploitation.
 
 Prêt à commencer l'aventure ? Passons au Module 1 !
+
+⏭️ [Module 1 : Création de média bootable](#2-1-création-de-média-bootable)
+⏭️ [Suivant : 2-2. Installation Desktop & Server](#22-installation-desktop--server)

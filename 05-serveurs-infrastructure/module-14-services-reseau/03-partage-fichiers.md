@@ -1,5 +1,7 @@
 # 14-3. Partage fichiers : Samba, NFS, FTP
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Le partage de fichiers entre ordinateurs est une fonctionnalité fondamentale dans tout réseau. Ubuntu propose plusieurs solutions pour partager des fichiers, chacune avec ses avantages et cas d'utilisation spécifiques. Dans ce module, nous allons explorer :

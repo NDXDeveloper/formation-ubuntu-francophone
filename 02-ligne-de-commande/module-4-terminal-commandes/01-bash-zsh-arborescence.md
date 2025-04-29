@@ -1,5 +1,7 @@
 # 4-1. Bash, Zsh, arborescence système
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction aux shells sous Ubuntu
 
 Un **shell** est une interface qui vous permet d'interagir avec le système d'exploitation à travers des commandes textuelles. Sur Ubuntu, vous utiliserez principalement le terminal pour accéder à ces shells.

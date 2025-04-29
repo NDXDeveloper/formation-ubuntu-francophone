@@ -1,5 +1,7 @@
 # 16-3. Git, GitHub, GitLab
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 La gestion de versions est un aspect fondamental du développement logiciel moderne. Elle vous permet de suivre les modifications de votre code, de collaborer efficacement avec d'autres développeurs et de revenir à des versions antérieures en cas de besoin.

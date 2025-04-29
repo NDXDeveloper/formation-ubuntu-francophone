@@ -1,5 +1,7 @@
 # 19-4. Pipeline CI/CD automatisé
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Dans ce tutoriel, nous allons découvrir comment mettre en place un pipeline CI/CD (Intégration Continue/Déploiement Continu) pour automatiser le cycle de développement, de test et de déploiement de vos applications. Cette approche vous permettra de livrer des logiciels de meilleure qualité, plus rapidement et avec moins d'erreurs.

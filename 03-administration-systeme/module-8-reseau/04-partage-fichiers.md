@@ -1,5 +1,7 @@
 # 8-4. Partage de fichiers : Samba, NFS, FTP
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 Dans cette section, nous allons explorer les différentes méthodes pour partager des fichiers entre votre système Ubuntu et d'autres ordinateurs du réseau. Nous aborderons trois protocoles populaires : Samba (pour le partage avec Windows), NFS (pour le partage entre systèmes Unix/Linux) et FTP (un protocole universel de transfert de fichiers).
 
 ## 📌 Samba : Partage avec les systèmes Windows

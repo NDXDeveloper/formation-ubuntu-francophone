@@ -1,5 +1,7 @@
 # 3-1. GNOME : navigation, raccourcis, multi-bureaux
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction à l'environnement GNOME
 
 Ubuntu utilise GNOME comme environnement de bureau par défaut. GNOME est une interface moderne, élégante et facile à utiliser qui vous permet d'interagir avec votre système de manière intuitive. Dans ce chapitre, nous allons explorer les bases de la navigation dans GNOME, découvrir les raccourcis clavier qui vous feront gagner du temps, et apprendre à utiliser les espaces de travail multiples pour organiser vos tâches efficacement.

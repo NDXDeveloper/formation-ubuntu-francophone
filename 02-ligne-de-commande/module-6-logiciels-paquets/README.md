@@ -1,5 +1,7 @@
 # Module 6 – Logiciels et gestion des paquets
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Bienvenue dans le Module 6 de notre formation Ubuntu ! Dans ce module, nous allons explorer l'un des aspects les plus pratiques d'Ubuntu : comment installer, gérer et mettre à jour vos logiciels.

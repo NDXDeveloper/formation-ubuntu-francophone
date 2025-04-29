@@ -1,5 +1,7 @@
 # 1-4. Ubuntu vs autres OS
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Choisir un système d'exploitation est une décision importante. Ubuntu est l'une des nombreuses options disponibles, et il est utile de comprendre comment il se compare aux autres systèmes. Cette section vous aidera à situer Ubuntu dans le paysage des systèmes d'exploitation et à comprendre ses avantages et différences par rapport aux alternatives.

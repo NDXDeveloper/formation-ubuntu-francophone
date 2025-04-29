@@ -1,5 +1,7 @@
 # 12-6. Diagnostic & troubleshooting avancé
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Le diagnostic avancé sous Ubuntu peut sembler intimidant, mais avec les bons outils et méthodes, même les problèmes complexes deviennent gérables. Ce guide vous présente une approche structurée pour identifier et résoudre les problèmes techniques plus avancés sur votre système Ubuntu.

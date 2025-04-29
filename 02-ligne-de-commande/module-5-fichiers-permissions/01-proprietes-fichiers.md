@@ -1,5 +1,7 @@
 # Module 5 – Fichiers, permissions et sécurité de base
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## 5-1. Propriétés fichiers, utilisateurs/groupes
 
 Dans un système Linux comme Ubuntu, chaque fichier et dossier possède des propriétés spécifiques qui déterminent qui peut y accéder et comment. Comprendre ces concepts est fondamental pour gérer votre système efficacement et en toute sécurité.

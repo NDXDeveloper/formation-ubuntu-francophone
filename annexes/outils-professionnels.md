@@ -1,5 +1,7 @@
 # 21-5. Bonus : Outils pro (GParted, Tmux, Terminator, etc.)
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Dans ce chapitre bonus, nous allons découvrir des outils professionnels qui vous aideront à travailler plus efficacement sur Ubuntu. Ces applications sont utilisées quotidiennement par les administrateurs système, les développeurs et les utilisateurs avancés, mais sont tout à fait accessibles aux débutants motivés.

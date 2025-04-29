@@ -1,5 +1,7 @@
 # 3-2. Applications par défaut & gestion des fichiers
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction aux applications par défaut d'Ubuntu
 
 Ubuntu est livré avec une collection soigneusement sélectionnée d'applications préinstallées qui couvrent la plupart des besoins quotidiens. Dans ce chapitre, nous explorerons ces applications essentielles et nous verrons comment gérer vos fichiers efficacement avec le gestionnaire de fichiers Nautilus (ou simplement "Fichiers" dans les menus). Cette connaissance vous permettra d'être productif immédiatement après l'installation de votre système.

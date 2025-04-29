@@ -1,5 +1,7 @@
 # Module 5 – Fichiers, permissions et sécurité de base
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Bienvenue dans ce module consacré aux permissions et à la sécurité de base sous Ubuntu !

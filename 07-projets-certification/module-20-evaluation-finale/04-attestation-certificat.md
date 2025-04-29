@@ -1,5 +1,7 @@
 # 20-4. Attestation ou certificat
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Félicitations pour avoir parcouru l'ensemble de cette formation Ubuntu ! Arrivé à cette étape, vous avez acquis de nombreuses compétences précieuses en administration système Linux. Pour valoriser cet accomplissement, il est important d'obtenir une reconnaissance officielle de vos nouvelles compétences sous forme d'attestation ou de certificat.

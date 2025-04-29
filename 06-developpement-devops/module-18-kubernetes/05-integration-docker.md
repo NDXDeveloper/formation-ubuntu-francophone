@@ -1,5 +1,7 @@
 # 18-5. Intégration avec Docker : création d'images et déploiement
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Dans ce module, nous allons découvrir comment créer des images Docker adaptées à Kubernetes et comment les déployer efficacement sur un cluster. Kubernetes et Docker fonctionnent main dans la main : Docker permet de créer et de gérer des conteneurs, tandis que Kubernetes orchestre ces conteneurs à grande échelle.

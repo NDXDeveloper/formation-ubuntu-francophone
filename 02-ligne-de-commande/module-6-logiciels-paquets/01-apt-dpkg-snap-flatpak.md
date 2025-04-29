@@ -1,5 +1,7 @@
 # Module 6 – Logiciels et gestion des paquets
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## 6-1. `apt`, `dpkg`, `snap`, `flatpak`, AppImage
 
 L'un des grands avantages d'Ubuntu est la simplicité avec laquelle vous pouvez installer, mettre à jour et gérer vos logiciels. Dans ce module, nous allons explorer les différentes méthodes pour gérer les logiciels sous Ubuntu, en commençant par les gestionnaires de paquets traditionnels comme `apt` et `dpkg`, puis en découvrant les solutions plus modernes comme `snap`, `flatpak` et les AppImage.

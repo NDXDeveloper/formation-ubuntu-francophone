@@ -1,5 +1,7 @@
 # 21-4. Glossaire Linux / Ubuntu
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Ce glossaire a été conçu pour vous aider à comprendre les termes techniques que vous rencontrerez en utilisant Ubuntu et Linux en général. Les définitions sont rédigées dans un langage simple, accessible aux débutants. Vous pouvez consulter ce document chaque fois que vous rencontrez un terme inconnu dans votre parcours d'apprentissage.

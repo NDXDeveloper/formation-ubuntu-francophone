@@ -1,5 +1,7 @@
 # 17-2. CI/CD : GitHub Actions, GitLab CI
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 L'intégration continue (CI) et le déploiement continu (CD) sont des pratiques essentielles dans le développement logiciel moderne. Ces pratiques permettent d'automatiser les tests, la construction et le déploiement de vos applications, ce qui améliore la qualité du code et accélère la livraison. Dans ce tutoriel, nous allons explorer comment mettre en place ces processus avec deux outils populaires : GitHub Actions et GitLab CI.

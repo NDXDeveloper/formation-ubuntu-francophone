@@ -1,5 +1,7 @@
 # 3-4. Accessibilité & ergonomie sous Ubuntu
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 Ubuntu a été conçu pour être utilisable par tous, quelles que soient les capacités physiques ou cognitives de l'utilisateur. Cette section présente les fonctionnalités d'accessibilité et d'ergonomie disponibles sur Ubuntu pour améliorer votre expérience utilisateur.
 
 ## Fonctionnalités d'accessibilité

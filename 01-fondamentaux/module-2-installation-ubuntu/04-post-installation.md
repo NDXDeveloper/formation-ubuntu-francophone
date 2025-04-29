@@ -1,5 +1,7 @@
 # 2-4. Post-installation : MAJ, pilotes, user
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Félicitations ! Vous avez installé Ubuntu avec succès sur votre ordinateur. Maintenant, il est temps d'effectuer quelques tâches essentielles post-installation pour que votre système soit pleinement fonctionnel, à jour et personnalisé selon vos besoins. Ce chapitre vous guidera à travers ces étapes importantes, qui vous permettront de profiter d'une expérience Ubuntu optimale.

@@ -1,5 +1,7 @@
 # 15-1. KVM/QEMU, VirtualBox
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction à la virtualisation
 
 La virtualisation permet d'exécuter plusieurs systèmes d'exploitation sur un seul ordinateur physique. Chaque système virtualisé (appelé "machine virtuelle" ou "VM") fonctionne comme s'il disposait de son propre matériel dédié, alors qu'en réalité il partage les ressources physiques de l'hôte.

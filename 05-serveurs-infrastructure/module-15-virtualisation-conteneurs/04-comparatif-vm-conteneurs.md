@@ -1,5 +1,7 @@
 # 15-4. Comparatif VM vs conteneurs
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 La virtualisation est devenue un concept incontournable dans le monde de l'informatique moderne. Il existe deux approches principales pour isoler et exécuter des applications : les **machines virtuelles (VM)** et les **conteneurs**. Bien que ces deux technologies permettent d'atteindre des objectifs similaires, elles fonctionnent très différemment et présentent chacune leurs avantages et inconvénients.

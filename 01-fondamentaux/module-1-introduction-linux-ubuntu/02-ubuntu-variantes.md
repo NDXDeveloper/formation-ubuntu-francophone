@@ -1,5 +1,7 @@
 # 1-2. Ubuntu et ses variantes (Desktop, Server, flavors)
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Ubuntu est l'une des distributions Linux les plus populaires et accessibles. Son écosystème comprend plusieurs variantes adaptées à différents besoins et préférences. Dans cette section, nous allons explorer l'univers d'Ubuntu et ses différentes déclinaisons.

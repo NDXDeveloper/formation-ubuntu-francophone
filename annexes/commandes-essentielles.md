@@ -1,5 +1,7 @@
 # 21-1. Commandes essentielles & scripts types
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Bienvenue dans cette annexe sur les commandes essentielles et les scripts types pour Ubuntu ! Ce chapitre est conçu comme une référence pratique que vous pourrez consulter chaque fois que vous aurez besoin de vous rappeler une commande importante ou de trouver un exemple de script pour une tâche courante.

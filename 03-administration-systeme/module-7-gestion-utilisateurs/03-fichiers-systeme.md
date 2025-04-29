@@ -1,5 +1,7 @@
 # Fichiers système : `/etc/passwd`, `/shadow`
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Dans ce module, nous allons explorer deux fichiers système essentiels pour la gestion des utilisateurs sous Ubuntu : `/etc/passwd` et `/etc/shadow`. Ces fichiers contiennent des informations critiques sur les comptes utilisateurs de votre système. Comprendre leur structure et leur fonctionnement vous aidera à mieux gérer et sécuriser votre système Ubuntu.

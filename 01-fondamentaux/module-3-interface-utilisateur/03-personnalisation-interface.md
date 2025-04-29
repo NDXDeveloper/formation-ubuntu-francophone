@@ -1,5 +1,7 @@
 # 3-3. Personnalisation de l'interface
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction à la personnalisation
 
 L'un des grands avantages d'Ubuntu et de l'environnement GNOME est la possibilité de personnaliser l'interface selon vos préférences. Que vous souhaitiez simplement changer le fond d'écran ou transformer complètement l'apparence de votre bureau, Ubuntu vous offre de nombreuses options. Dans ce chapitre, nous explorerons les différentes façons de personnaliser votre environnement de travail pour le rendre à la fois attrayant et fonctionnel.

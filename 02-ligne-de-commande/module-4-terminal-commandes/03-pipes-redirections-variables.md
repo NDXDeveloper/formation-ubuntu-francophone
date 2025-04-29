@@ -1,5 +1,7 @@
 # 4-3. Pipes, redirections, variables
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Après avoir appris à naviguer dans le système de fichiers et à manipuler les fichiers, nous allons découvrir des outils puissants qui vous permettront de combiner des commandes et de manipuler les données dans le terminal : les pipes, les redirections et les variables. Ces concepts sont essentiels pour devenir efficace sous Ubuntu et constituent la base de l'automatisation de tâches.

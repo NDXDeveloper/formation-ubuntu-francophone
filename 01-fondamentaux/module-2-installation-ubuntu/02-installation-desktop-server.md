@@ -1,5 +1,7 @@
 # 2-2. Installation Desktop & Server
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Maintenant que vous avez créé votre média d'installation bootable, vous êtes prêt à installer Ubuntu sur votre ordinateur. Dans ce chapitre, nous allons vous guider à travers les étapes d'installation d'Ubuntu Desktop et d'Ubuntu Server. Bien que les deux versions partagent la même base technique, leurs processus d'installation diffèrent légèrement en raison de leurs usages distincts.

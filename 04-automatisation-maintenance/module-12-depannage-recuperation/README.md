@@ -1,5 +1,7 @@
 # Module 12 – Dépannage & récupération
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Bienvenue dans le Module 12 de notre formation Ubuntu ! Dans ce module, nous allons explorer un sujet que tout utilisateur d'ordinateur rencontre tôt ou tard : le dépannage et la récupération du système lorsque quelque chose ne fonctionne pas comme prévu.

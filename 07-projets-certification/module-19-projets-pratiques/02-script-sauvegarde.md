@@ -1,5 +1,7 @@
 # 19-2. Script complet de sauvegarde & envoi mail
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 La sauvegarde des données est l'une des tâches les plus importantes en administration système. Dans ce tutoriel, nous allons créer un script de sauvegarde complet qui non seulement sauvegardera vos données importantes mais vous enverra également une notification par email pour confirmer que tout s'est bien passé (ou vous alerter en cas de problème).

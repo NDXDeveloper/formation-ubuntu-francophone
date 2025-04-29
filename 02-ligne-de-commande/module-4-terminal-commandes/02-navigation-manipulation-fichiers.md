@@ -1,5 +1,7 @@
 # 4-2. Navigation, manipulation de fichiers
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction à la navigation et manipulation de fichiers
 
 Après avoir découvert les bases des shells et l'arborescence système, nous allons maintenant apprendre à naviguer efficacement dans le système de fichiers et à manipuler les fichiers et répertoires via le terminal Ubuntu. Ces compétences sont fondamentales pour tout utilisateur de Linux.

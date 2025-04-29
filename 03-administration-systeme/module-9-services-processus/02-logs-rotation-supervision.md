@@ -1,5 +1,7 @@
 # 9-2. Logs, rotation, supervision
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 Dans cette section, nous allons explorer la gestion des journaux système (logs), leur rotation et les outils de supervision sous Ubuntu. Ces compétences sont essentielles pour surveiller l'état de votre système, diagnostiquer les problèmes et garantir le bon fonctionnement de votre machine.
 
 ## 📌 Introduction aux journaux système (logs)

@@ -1,5 +1,7 @@
 # Module 5 – Fichiers, permissions et sécurité de base
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## 5-3. Permissions spéciales (SUID, SGID, sticky)
 
 Au-delà des permissions standard (lecture, écriture, exécution), Ubuntu offre des permissions spéciales qui permettent de gérer des cas d'utilisation plus avancés. Ces permissions spéciales sont essentielles pour comprendre certains comportements du système et pour configurer correctement les droits d'accès dans des situations particulières.

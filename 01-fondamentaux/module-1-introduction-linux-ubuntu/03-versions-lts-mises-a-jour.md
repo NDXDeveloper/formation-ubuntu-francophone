@@ -1,5 +1,7 @@
 # 1-3. Versions, LTS, mises à jour, Ubuntu Pro
 
+🔝 Retour à la [Table des matières](#table-des-matières)
+
 ## Introduction
 
 Comprendre le cycle de vie d'Ubuntu est essentiel pour bien planifier vos installations et mises à jour. Dans cette section, nous allons explorer les différents types de versions d'Ubuntu, leur calendrier de publication, et les options de support disponibles, dont Ubuntu Pro.
