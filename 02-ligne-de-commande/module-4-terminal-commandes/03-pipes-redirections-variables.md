@@ -1,6 +1,6 @@
 # 4-3. Pipes, redirections, variables
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

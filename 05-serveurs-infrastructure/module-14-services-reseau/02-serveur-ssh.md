@@ -1,6 +1,6 @@
 # 14-2. Serveur SSH : durcissement, logs
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

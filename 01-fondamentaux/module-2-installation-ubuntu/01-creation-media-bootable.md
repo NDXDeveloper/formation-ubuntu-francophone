@@ -1,6 +1,6 @@
 # 2-1. Création de média bootable
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

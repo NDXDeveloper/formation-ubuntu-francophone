@@ -1,6 +1,6 @@
 # 1-1. Histoire et concepts du libre
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

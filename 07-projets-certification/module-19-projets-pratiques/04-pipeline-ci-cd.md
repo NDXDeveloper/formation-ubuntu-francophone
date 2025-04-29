@@ -1,6 +1,6 @@
 # 19-4. Pipeline CI/CD automatisé
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

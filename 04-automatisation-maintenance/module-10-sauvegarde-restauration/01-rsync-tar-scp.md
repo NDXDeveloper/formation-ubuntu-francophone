@@ -1,6 +1,6 @@
 # 10-1. Sauvegarde et restauration : `rsync`, `tar`, `scp`, Timeshift
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 La sauvegarde régulière de vos données est l'une des pratiques les plus importantes en informatique. Dans ce module, nous allons explorer quatre outils essentiels sous Ubuntu pour sauvegarder et restaurer vos fichiers : `rsync`, `tar`, `scp` et Timeshift.
 

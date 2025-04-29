@@ -1,6 +1,6 @@
 ### Module 2 – Installation d'Ubuntu
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 Bienvenue dans le Module 2 de notre formation Ubuntu ! Maintenant que vous comprenez ce qu'est Ubuntu et ses principales caractéristiques, il est temps de passer à la pratique et d'installer le système sur votre ordinateur.
 

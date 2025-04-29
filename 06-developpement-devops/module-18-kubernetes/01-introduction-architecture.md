@@ -1,6 +1,6 @@
 # 18-1. Introduction à Kubernetes : architecture et composants
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Qu'est-ce que Kubernetes ?
 

@@ -1,6 +1,6 @@
 # 15-4. Comparatif VM vs conteneurs
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

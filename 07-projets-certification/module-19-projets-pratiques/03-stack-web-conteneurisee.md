@@ -1,6 +1,6 @@
 # 19-3. Stack web conteneurisée (Docker Compose)
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

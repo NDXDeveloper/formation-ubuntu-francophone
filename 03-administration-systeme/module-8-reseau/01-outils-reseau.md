@@ -1,6 +1,6 @@
 # Module 8 - Réseau sous Ubuntu
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## 8-1. Outils réseau : `nmcli`, `netplan`, `ip` et interfaces graphiques
 

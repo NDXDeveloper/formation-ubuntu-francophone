@@ -1,6 +1,6 @@
 # Module 20 – Évaluation finale
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Valider vos compétences Ubuntu
 

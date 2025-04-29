@@ -1,6 +1,6 @@
 # 21-3. Forums et docs recommandés
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

@@ -1,6 +1,6 @@
 # 4-4. Alias, historique, personnalisation shell
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

@@ -1,6 +1,6 @@
 # 3-1. GNOME : navigation, raccourcis, multi-bureaux
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction à l'environnement GNOME
 

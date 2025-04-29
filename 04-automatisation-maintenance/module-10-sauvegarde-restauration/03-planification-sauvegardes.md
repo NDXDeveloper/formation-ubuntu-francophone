@@ -1,6 +1,6 @@
 # 10-3. Planification de sauvegardes
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 La création régulière de sauvegardes est l'un des aspects les plus importants de la maintenance système. Une bonne planification vous permet d'automatiser ce processus pour ne jamais oublier de protéger vos données importantes.
 

@@ -1,6 +1,6 @@
 # 2-2. Installation Desktop & Server
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

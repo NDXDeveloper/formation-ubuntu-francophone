@@ -1,6 +1,6 @@
 # 13-1. Installation minimaliste
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

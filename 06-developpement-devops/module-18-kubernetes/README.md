@@ -1,6 +1,6 @@
 # Module 18 – Kubernetes sur Ubuntu
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Qu'est-ce que Kubernetes ?
 

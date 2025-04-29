@@ -1,6 +1,6 @@
 # 15-2. Docker : images, conteneurs, volumes, réseaux
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction à Docker
 

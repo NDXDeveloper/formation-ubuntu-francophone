@@ -1,6 +1,6 @@
 # 11-2. Scripting Bash : boucles, fonctions
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 Le scripting Bash est un outil puissant qui vous permet d'automatiser des tâches répétitives et de créer des programmes complexes sous Ubuntu. Dans cette section, nous allons explorer les boucles et les fonctions, deux concepts fondamentaux qui rendront vos scripts plus efficaces et mieux organisés.
 

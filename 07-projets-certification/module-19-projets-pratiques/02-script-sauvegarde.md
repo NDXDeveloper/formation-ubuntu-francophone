@@ -1,6 +1,6 @@
 # 19-2. Script complet de sauvegarde & envoi mail
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

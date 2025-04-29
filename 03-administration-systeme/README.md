@@ -1,6 +1,6 @@
 ## NIVEAU 3 – ADMINISTRATION SYSTÈME
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 Bienvenue dans le troisième niveau de notre formation Ubuntu ! Après avoir maîtrisé les bases et la ligne de commande, vous êtes maintenant prêt à explorer les aspects plus avancés de l'administration système.
 

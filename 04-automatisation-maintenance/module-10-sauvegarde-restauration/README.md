@@ -1,6 +1,6 @@
 # Module 10 – Sauvegarde & restauration
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

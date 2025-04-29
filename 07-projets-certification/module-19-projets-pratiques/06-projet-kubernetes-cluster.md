@@ -1,6 +1,6 @@
 # 19-6. Projet Kubernetes : Cluster multi-nœuds, service scaling
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

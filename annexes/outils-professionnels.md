@@ -1,6 +1,6 @@
 # 21-5. Bonus : Outils pro (GParted, Tmux, Terminator, etc.)
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

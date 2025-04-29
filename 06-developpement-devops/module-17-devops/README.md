@@ -1,6 +1,6 @@
 # Module 17 – DevOps avec Ubuntu
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction au DevOps
 

@@ -1,6 +1,6 @@
 # 4-1. Bash, Zsh, arborescence système
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction aux shells sous Ubuntu
 

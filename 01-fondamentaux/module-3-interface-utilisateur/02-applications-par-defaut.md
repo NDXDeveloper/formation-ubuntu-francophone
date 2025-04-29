@@ -1,6 +1,6 @@
 # 3-2. Applications par défaut & gestion des fichiers
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction aux applications par défaut d'Ubuntu
 

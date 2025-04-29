@@ -1,6 +1,6 @@
 # Création, modification et suppression d'utilisateurs sous Ubuntu
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

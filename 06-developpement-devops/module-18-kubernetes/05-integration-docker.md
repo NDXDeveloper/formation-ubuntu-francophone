@@ -1,6 +1,6 @@
 # 18-5. Intégration avec Docker : création d'images et déploiement
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

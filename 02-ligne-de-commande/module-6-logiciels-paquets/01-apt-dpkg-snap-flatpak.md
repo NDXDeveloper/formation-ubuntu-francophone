@@ -1,6 +1,6 @@
 # Module 6 – Logiciels et gestion des paquets
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## 6-1. `apt`, `dpkg`, `snap`, `flatpak`, AppImage
 

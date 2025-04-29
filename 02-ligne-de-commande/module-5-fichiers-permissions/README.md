@@ -1,6 +1,6 @@
 # Module 5 – Fichiers, permissions et sécurité de base
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

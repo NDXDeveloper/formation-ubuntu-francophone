@@ -1,6 +1,6 @@
 # 18-7. Introduction à Helm : gestion des applications Kubernetes
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

@@ -1,6 +1,6 @@
 # 11-3. Scripts système réutilisables
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 Les scripts système réutilisables sont des outils puissants qui vous permettent d'automatiser des tâches administratives courantes sous Ubuntu. Dans cette section, nous allons apprendre à créer des scripts bien structurés, robustes et faciles à réutiliser pour différentes situations système.
 

@@ -1,6 +1,6 @@
 # Module 11 – Planification & scripting
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

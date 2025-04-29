@@ -1,6 +1,6 @@
 # Fichiers système : `/etc/passwd`, `/shadow`
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

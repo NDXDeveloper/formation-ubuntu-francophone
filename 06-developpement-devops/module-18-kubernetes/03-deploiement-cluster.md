@@ -1,6 +1,6 @@
 # 18-3. Déploiement d'un cluster local (Minikube, MicroK8s)
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

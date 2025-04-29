@@ -1,6 +1,6 @@
 # 19-5. Déploiement Kubernetes d'une application web
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

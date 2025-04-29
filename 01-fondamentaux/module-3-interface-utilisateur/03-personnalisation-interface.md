@@ -1,6 +1,6 @@
 # 3-3. Personnalisation de l'interface
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction à la personnalisation
 

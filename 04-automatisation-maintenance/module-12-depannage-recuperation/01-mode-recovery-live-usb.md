@@ -1,6 +1,6 @@
 # 12-4. Mode recovery, live USB
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 Lorsque votre système Ubuntu rencontre des problèmes graves qui vous empêchent de démarrer normalement, deux outils essentiels viennent à votre secours : le mode recovery (récupération) et le Live USB. Dans cette section, nous allons explorer ces deux méthodes qui peuvent sauver votre système en cas d'urgence.
 

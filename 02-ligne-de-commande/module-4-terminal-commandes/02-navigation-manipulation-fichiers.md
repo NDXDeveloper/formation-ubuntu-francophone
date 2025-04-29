@@ -1,6 +1,6 @@
 # 4-2. Navigation, manipulation de fichiers
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction à la navigation et manipulation de fichiers
 

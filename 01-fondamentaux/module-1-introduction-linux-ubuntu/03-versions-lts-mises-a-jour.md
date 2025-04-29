@@ -1,6 +1,6 @@
 # 1-3. Versions, LTS, mises à jour, Ubuntu Pro
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

@@ -1,6 +1,6 @@
 ## ANNEXES & RESSOURCES
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 Bienvenue dans la section Annexes & Ressources de notre formation Ubuntu ! Cette partie est conçue pour vous accompagner tout au long de votre parcours d'apprentissage et au-delà, en vous fournissant des outils de référence, des aides-mémoire et des ressources complémentaires.
 

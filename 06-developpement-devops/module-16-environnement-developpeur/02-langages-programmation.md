@@ -1,6 +1,6 @@
 # 16-2. Langages : Python, Node.js, Java, PHP, etc.
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

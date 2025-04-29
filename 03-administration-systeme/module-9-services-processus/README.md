@@ -1,6 +1,6 @@
 # Module 9 – Services, processus et ressources
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

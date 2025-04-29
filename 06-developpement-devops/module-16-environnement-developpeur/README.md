@@ -1,6 +1,6 @@
 # Module 16 – Environnement développeur
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

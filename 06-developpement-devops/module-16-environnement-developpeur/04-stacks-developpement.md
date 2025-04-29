@@ -1,6 +1,6 @@
 # 16-4. LAMP, Django, Flask, React en local
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

@@ -1,6 +1,6 @@
 # 21-4. Glossaire Linux / Ubuntu
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

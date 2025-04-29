@@ -1,6 +1,6 @@
 # 18-4. Création et gestion de Pods, Services et Déploiements
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

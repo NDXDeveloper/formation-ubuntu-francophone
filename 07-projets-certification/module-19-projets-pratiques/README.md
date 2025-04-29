@@ -1,6 +1,6 @@
 # Module 19 – Projets pratiques
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Mettre en pratique vos compétences Ubuntu
 

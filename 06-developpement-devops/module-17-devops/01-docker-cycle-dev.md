@@ -1,6 +1,6 @@
 # 17-1. Docker dans le cycle de développement
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

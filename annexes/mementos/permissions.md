@@ -1,5 +1,7 @@
 # Mémento Permissions Ubuntu
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Concepts de base
 
 ### Types de fichiers

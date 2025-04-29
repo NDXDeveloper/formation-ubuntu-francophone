@@ -1,6 +1,6 @@
 # 18-6. Scaling, mise à jour, monitoring avec Prometheus
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

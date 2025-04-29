@@ -1,6 +1,6 @@
 ### Module 4 – Terminal & commandes essentielles
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 Bienvenue dans le Module 4 de notre formation Ubuntu ! Après avoir découvert l'interface graphique, il est temps d'explorer la puissance du terminal, un outil fondamental qui vous permettra de contrôler votre système avec précision et efficacité.
 

@@ -1,6 +1,6 @@
 # 18-8. Sécurisation du cluster : RBAC, Network Policies
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

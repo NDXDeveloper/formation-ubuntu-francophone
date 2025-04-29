@@ -1,6 +1,6 @@
 # 20-3. Soutenance / évaluation finale
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

@@ -1,6 +1,6 @@
 # 12-5. Réparer GRUB, partitions, système bloqué
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

@@ -1,6 +1,6 @@
 # 17-3. Ansible, début de l'Infrastructure as Code
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

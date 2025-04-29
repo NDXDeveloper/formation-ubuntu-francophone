@@ -1,6 +1,6 @@
 # 1-2. Ubuntu et ses variantes (Desktop, Server, flavors)
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

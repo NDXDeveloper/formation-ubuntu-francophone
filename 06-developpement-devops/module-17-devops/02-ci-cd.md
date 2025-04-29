@@ -1,6 +1,6 @@
 # 17-2. CI/CD : GitHub Actions, GitLab CI
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 

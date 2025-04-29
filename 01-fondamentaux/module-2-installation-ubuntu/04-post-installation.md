@@ -1,6 +1,6 @@
 # 2-4. Post-installation : MAJ, pilotes, user
 
-🔝 Retour à la [Table des matières](#table-des-matières)
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Introduction
 
