@@ -47,5 +47,5 @@ Pour suivre ce niveau, vous aurez besoin de :
 
 Prêt à commencer l'aventure ? Passons au Module 1 !
 
-⏭️ [Module 1 : Création de média bootable](#2-1-création-de-média-bootable)
-⏭️ [Suivant : 2-2. Installation Desktop & Server](#22-installation-desktop--server)
+⏭️ [Module 1 – Introduction à Linux et à Ubuntu](01-fondamentaux/module-1-introduction-linux-ubuntu/README.md)
+
