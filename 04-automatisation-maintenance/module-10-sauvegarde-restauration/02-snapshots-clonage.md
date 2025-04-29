@@ -274,3 +274,5 @@ Les snapshots et le clonage sont des techniques puissantes qui complètent vos s
 En combinant ces techniques avec les outils vus dans le module précédent (`rsync`, `tar`, etc.), vous disposez maintenant d'un arsenal complet pour protéger votre système Ubuntu contre presque tous les scénarios de désastre.
 
 Dans le prochain module, nous aborderons la planification des sauvegardes pour automatiser ces processus et garantir la protection continue de vos données.
+
+⏭️ [Planification de sauvegardes](/04-automatisation-maintenance/module-10-sauvegarde-restauration/03-planification-sauvegardes.md)

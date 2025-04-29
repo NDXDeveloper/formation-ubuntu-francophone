@@ -356,3 +356,5 @@ La sauvegarde n'est utile que lorsqu'elle est faite _avant_ qu'un problème ne s
 Ces outils, utilisés ensemble et régulièrement, vous protégeront contre la plupart des scénarios catastrophiques qui peuvent affecter vos données.
 
 Dans le prochain module, nous explorerons les snapshots et le clonage de systèmes entiers avec `dd` et Clonezilla.
+
+⏭️ [Snapshots, clonage](/04-automatisation-maintenance/module-10-sauvegarde-restauration/02-snapshots-clonage.md)

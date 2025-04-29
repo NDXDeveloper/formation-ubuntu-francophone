@@ -613,3 +613,5 @@ Créez un script qui :
 Les scripts système réutilisables sont des outils essentiels pour tout administrateur Ubuntu. En suivant les bonnes pratiques présentées dans cette section, vous pourrez créer des scripts robustes, bien documentés et facilement adaptables à différentes situations.
 
 Dans la prochaine section, nous aborderons les techniques de dépannage et de récupération système, où nous mettrons en pratique certains des scripts que nous avons appris à développer ici.
+
+⏭️ [Module 12 – Dépannage & récupération](/04-automatisation-maintenance/module-12-depannage-recuperation/README.md)

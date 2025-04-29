@@ -163,3 +163,5 @@ Pour être informé du résultat de vos sauvegardes :
 ---
 
 À présent, vous savez comment planifier efficacement vos sauvegardes sous Ubuntu. Dans la prochaine section, nous aborderons les techniques de scripting Bash pour automatiser d'autres tâches système.
+
+⏭️ [Module 11 – Planification & scripting](/04-automatisation-maintenance/module-11-planification-scripting/README.md)

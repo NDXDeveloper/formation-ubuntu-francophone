@@ -101,3 +101,5 @@ Préparez-vous à découvrir comment mettre en place une stratégie de sauvegard
 ---
 
 Passons maintenant aux différents outils de sauvegarde disponibles sous Ubuntu.
+
+⏭️ [rsync, tar, scp, Timeshift](04-automatisation-maintenance/module-10-sauvegarde-restauration/01-rsync-tar-scp.md)

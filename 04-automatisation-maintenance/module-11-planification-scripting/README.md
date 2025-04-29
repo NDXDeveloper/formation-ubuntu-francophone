@@ -119,3 +119,5 @@ Préparez-vous à découvrir comment faire travailler votre ordinateur à votre 
 ---
 
 Passons maintenant aux outils de planification de tâches disponibles sous Ubuntu.
+
+⏭️ [cron, at, anacron](/04-automatisation-maintenance/module-11-planification-scripting/01-cron-at-anacron.md)

@@ -59,3 +59,5 @@ Pour tirer le meilleur parti de ce niveau :
 À la fin de ce niveau, vous serez capable de mettre en place un système robuste de sauvegarde, d'automatiser vos tâches récurrentes avec des scripts personnalisés et de faire face sereinement à la plupart des problèmes techniques.
 
 Prêt à rendre votre système plus intelligent et plus résilient ? Commençons avec le Module 10 !
+
+⏭️ [Module 10 – Sauvegarde & restauration](/04-automatisation-maintenance/module-10-sauvegarde-restauration/README.md)

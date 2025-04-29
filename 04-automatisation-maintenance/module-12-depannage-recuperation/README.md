@@ -106,3 +106,5 @@ Préparez-vous à acquérir les compétences qui vous permettront de faire face 
 ---
 
 Passons maintenant aux outils de récupération disponibles sous Ubuntu.
+
+⏭️ [Mode recovery, live USB](/04-automatisation-maintenance/module-12-depannage-recuperation/01-mode-recovery-live-usb.md)

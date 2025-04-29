@@ -226,3 +226,5 @@ Pour utiliser ces dossiers :
 ---
 
 Dans la prochaine section, nous explorerons le scripting Bash plus en profondeur, ce qui vous permettra de créer des scripts plus complexes que vous pourrez ensuite planifier avec les outils que nous venons d'apprendre.
+
+⏭️ [Scripting Bash: boucles, fonctions](/04-automatisation-maintenance/module-11-planification-scripting/02-scripting-bash.md)

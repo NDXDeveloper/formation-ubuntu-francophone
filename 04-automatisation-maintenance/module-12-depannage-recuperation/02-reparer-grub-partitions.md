@@ -234,3 +234,5 @@ Si vous arrivez à l'écran de connexion mais que celui-ci se fige:
 ---
 
 N'hésitez pas à consulter les autres modules de la formation pour approfondir vos connaissances sur le dépannage et la maintenance d'Ubuntu.
+
+⏭️ [Diagnostic & troubleshooting avancé](/04-automatisation-maintenance/module-12-depannage-recuperation/03-diagnostic-troubleshooting.md)

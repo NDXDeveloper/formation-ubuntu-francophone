@@ -337,3 +337,5 @@ done
 ---
 
 Avec ces connaissances sur les boucles et les fonctions Bash, vous êtes maintenant prêt à créer des scripts plus sophistiqués pour automatiser efficacement vos tâches sous Ubuntu. Dans la prochaine section, nous explorerons comment créer des scripts système réutilisables.
+
+⏭️ [Scripts système réutilisables](/04-automatisation-maintenance/module-11-planification-scripting/03-scripts-systeme.md)

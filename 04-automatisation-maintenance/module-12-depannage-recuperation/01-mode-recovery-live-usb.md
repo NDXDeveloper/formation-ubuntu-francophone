@@ -280,3 +280,5 @@ Si vous créez la clé depuis Windows ou macOS, ou si vous préférez une interf
 ---
 
 Dans la prochaine section, nous verrons comment réparer plus spécifiquement GRUB et les partitions endommagées, ainsi que comment récupérer d'un système complètement bloqué.
+
+⏭️ [Réparer GRUB, partitions, système bloqué](/04-automatisation-maintenance/module-12-depannage-recuperation/02-reparer-grub-partitions.md)
