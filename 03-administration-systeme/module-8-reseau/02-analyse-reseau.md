@@ -235,3 +235,5 @@ Si vous voyez des astérisques (`* * *`), cela indique que ce routeur ne répond
 ---
 
 Dans la prochaine section, nous explorerons la configuration et la sécurisation de SSH, les clés, les tunnels et le port forwarding.
+
+⏭️ [SSH, clés, tunnels](/03-administration-systeme/module-8-reseau/03-ssh-cles-tunnels.md)

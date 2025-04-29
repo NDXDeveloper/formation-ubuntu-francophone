@@ -78,3 +78,5 @@ Préparez-vous à découvrir comment Ubuntu gère les utilisateurs et comment vo
 ---
 
 Passons maintenant aux opérations de base pour la gestion des utilisateurs.
+
+⏭️ [Création, modification, suppression](/03-administration-systeme/module-7-gestion-utilisateurs/01-creation-modification-suppression.md)

@@ -272,3 +272,5 @@ ssh utilisateur@serveur_distant "ls -la /var/log"
 ---
 
 Dans la prochaine section, nous explorerons le partage de fichiers avec Samba, NFS et FTP.
+
+⏭️ [Partage de fichiers](/03-administration-systeme/module-8-reseau/04-partage-fichiers.md)

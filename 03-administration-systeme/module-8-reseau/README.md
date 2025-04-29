@@ -84,3 +84,5 @@ Préparez-vous à découvrir comment Ubuntu vous permet de tirer le meilleur par
 ---
 
 Passons maintenant aux différents outils de configuration réseau disponibles sous Ubuntu.
+
+⏭️ [Outils de configuration réseau](/03-administration-systeme/module-8-reseau/01-outils-reseau.md)

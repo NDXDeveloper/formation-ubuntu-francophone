@@ -306,3 +306,5 @@ L'optimisation d'un système Ubuntu est un processus continu qui doit être adap
 N'oubliez pas que certaines optimisations peuvent avoir des effets secondaires (comme réduire l'autonomie de la batterie sur un ordinateur portable). Il est donc important de tester chaque modification et de l'adapter à votre situation spécifique.
 
 Dans le prochain module, nous aborderons les techniques de sauvegarde et restauration pour protéger votre système optimisé contre les pannes et les erreurs.
+
+⏭️ [NIVEAU 4 – AUTOMATISATION, SAUVEGARDE & MAINTENANCE](/04-automatisation-maintenance/README.md)

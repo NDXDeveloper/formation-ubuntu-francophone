@@ -395,3 +395,5 @@ Accès à Grafana via `http://localhost:3000` (identifiant et mot de passe par d
 ---
 
 Dans la prochaine section, nous explorerons les outils de surveillance des ressources système comme `htop`, `iotop`, `free` et `df`.
+
+⏭️ [Monitoring des ressources](/03-administration-systeme/module-9-services-processus/03-htop-iotop-free-df.md)

@@ -371,3 +371,5 @@ sudo systemctl enable --now mon-app
 ---
 
 Dans la prochaine section, nous explorerons la gestion des journaux système, leur rotation et la supervision sous Ubuntu.
+
+⏭️ [Logs, rotation, supervision](/03-administration-systeme/module-9-services-processus/02-logs-rotation-supervision.md)

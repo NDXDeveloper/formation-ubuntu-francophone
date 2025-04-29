@@ -256,3 +256,5 @@ Les fichiers `/etc/passwd` et `/etc/shadow` sont fondamentaux pour la gestion de
 Utilisez toujours les commandes système appropriées pour gérer les utilisateurs et leurs mots de passe, et soyez prudent si vous devez modifier directement ces fichiers. Une erreur dans ces fichiers peut rendre votre système inaccessible.
 
 En suivant les bonnes pratiques de sécurité et en utilisant les outils adaptés, vous pouvez maintenir une gestion des utilisateurs efficace et sécurisée sur votre système Ubuntu.
+
+⏭️ [Sécurisation des comptes](/03-administration-systeme/module-7-gestion-utilisateurs/04-securisation-comptes.md)

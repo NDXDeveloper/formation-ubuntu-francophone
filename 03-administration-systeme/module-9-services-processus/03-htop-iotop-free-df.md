@@ -223,3 +223,5 @@ Ces quatre outils de surveillance des ressources système sont essentiels pour t
 - Optimiser votre système pour de meilleures performances
 
 Dans le prochain module, nous verrons comment optimiser l'utilisation de ces ressources pour améliorer les performances de votre système Ubuntu.
+
+⏭️ [Optimisation](/03-administration-systeme/module-9-services-processus/04-optimisation-ressources.md)

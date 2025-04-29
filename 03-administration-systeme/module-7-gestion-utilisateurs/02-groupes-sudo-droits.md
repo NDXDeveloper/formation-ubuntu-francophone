@@ -278,3 +278,5 @@ Les modifications de groupe ne s'appliquent qu'aux nouvelles sessions. Solutions
 La compréhension des groupes, de sudo et des droits administratifs est fondamentale pour gérer efficacement un système Ubuntu. Ces mécanismes permettent d'établir un équilibre entre sécurité et facilité d'utilisation, en accordant aux utilisateurs les droits dont ils ont besoin tout en protégeant le système contre les modifications non autorisées.
 
 En appliquant les bonnes pratiques présentées dans ce tutoriel, vous pouvez maintenir un environnement Ubuntu sécurisé et fonctionnel pour tous vos utilisateurs.
+
+⏭️ [Fichiers système](/03-administration-systeme/module-7-gestion-utilisateurs/03-fichiers-systeme.md)

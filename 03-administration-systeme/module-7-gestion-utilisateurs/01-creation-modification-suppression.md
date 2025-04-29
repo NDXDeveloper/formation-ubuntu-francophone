@@ -251,3 +251,5 @@ Vérifiez que :
 La gestion des utilisateurs est une tâche fondamentale de l'administration système Ubuntu. Que vous utilisiez l'interface graphique ou la ligne de commande, vous disposez maintenant des connaissances nécessaires pour créer, modifier et supprimer des comptes utilisateurs en toute confiance.
 
 Pour approfondir vos connaissances, n'hésitez pas à consulter la documentation officielle d'Ubuntu ou à explorer les autres modules de cette formation.
+
+⏭️ [Groupes, sudo, droits administratifs](/03-administration-systeme/module-7-gestion-utilisateurs/02-groupes-sudo-droits.md)

@@ -218,3 +218,5 @@ Cette commande vous donne 120 secondes pour vérifier que votre réseau fonction
 ---
 
 Dans le prochain chapitre, nous aborderons les outils d'analyse réseau comme `ping`, `ss`, `nmap` et `traceroute`.
+
+⏭️ [Analyse réseau](/03-administration-systeme/module-8-reseau/02-analyse-reseau.md)

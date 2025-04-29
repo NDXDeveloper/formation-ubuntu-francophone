@@ -354,3 +354,5 @@ sudo apt install filezilla  # Client FTP populaire et complet
 ---
 
 Dans la section suivante, nous explorerons les services, processus et ressources système avec une introduction à systemd et aux outils de surveillance système.
+
+⏭️ [Module 9 – Services, processus et ressources](/03-administration-systeme/module-9-services-processus/README.md)

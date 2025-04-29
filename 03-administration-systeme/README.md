@@ -57,3 +57,5 @@ L'administration système introduit des concepts plus complexes, mais nous les a
 À la fin de ce niveau, vous aurez acquis les compétences d'un administrateur système débutant, capable de gérer efficacement un ordinateur Ubuntu pour vous-même ou pour un petit groupe d'utilisateurs.
 
 Prêt à devenir un véritable administrateur système ? Commençons avec le Module 7 !
+
+⏭️ [Module 7 – Gestion des utilisateurs](/03-administration-systeme/module-7-gestion-utilisateurs/README.md)

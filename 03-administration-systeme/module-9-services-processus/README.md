@@ -94,3 +94,5 @@ Préparez-vous à plonger dans le cœur de votre système Ubuntu et à découvri
 ---
 
 Passons maintenant à la découverte de systemd et des commandes associées pour gérer les services système.
+
+⏭️ [systemd, systemctl, journalctl](/03-administration-systeme/module-9-services-processus/01-systemd-systemctl.md)

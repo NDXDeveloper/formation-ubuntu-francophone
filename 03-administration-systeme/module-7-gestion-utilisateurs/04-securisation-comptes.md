@@ -395,3 +395,5 @@ sudo pam_tally2 --user=nom_utilisateur --reset
 La sécurisation des comptes utilisateurs est une étape essentielle pour protéger votre système Ubuntu. En appliquant ces bonnes pratiques, vous réduirez considérablement les risques de compromission de votre système. Rappelez-vous que la sécurité informatique est un processus continu : effectuez régulièrement des mises à jour et des audits de sécurité pour maintenir votre système protégé.
 
 N'oubliez pas que l'équilibre entre sécurité et facilité d'utilisation est important. Choisissez les mesures qui correspondent à vos besoins réels de sécurité tout en gardant votre système Ubuntu agréable à utiliser au quotidien.
+
+⏭️ [Module 8 – Réseau sous Ubuntu](/03-administration-systeme/module-8-reseau/README.md)
