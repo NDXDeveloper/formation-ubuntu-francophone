@@ -489,3 +489,5 @@ Maintenant que votre cluster local est opérationnel, vous pouvez :
 - [Tutoriel Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 - [Guide pratique de kubectl](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Une liste curatée de ressources Kubernetes
+
+⏭️ [Création et gestion de ressources](/06-developpement-devops/module-18-kubernetes/04-pods-services-deploiements.md)

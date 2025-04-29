@@ -697,3 +697,5 @@ Ces exercices vous aideront à maîtriser les concepts et les commandes présent
 - [Documentation officielle sur les Services](https://kubernetes.io/docs/concepts/services-networking/service/)
 - [Documentation officielle sur les Déploiements](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 - [Guide kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+
+⏭️ [Intégration avec Docker](/06-developpement-devops/module-18-kubernetes/05-integration-docker.md)

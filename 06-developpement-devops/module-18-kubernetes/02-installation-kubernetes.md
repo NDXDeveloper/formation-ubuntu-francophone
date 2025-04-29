@@ -442,3 +442,5 @@ Voici quelques sujets à explorer maintenant que votre cluster est opérationnel
 - [Documentation de Calico](https://docs.projectcalico.org/)
 - [Documentation du tableau de bord Kubernetes](https://github.com/kubernetes/dashboard)
 - [Kubernetes Basics Tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+
+⏭️ [Déploiement d'un cluster local](/06-developpement-devops/module-18-kubernetes/03-deploiement-cluster.md)

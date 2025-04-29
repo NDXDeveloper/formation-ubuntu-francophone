@@ -115,3 +115,5 @@ Préparez-vous à transformer votre Ubuntu en une véritable plateforme de déve
 ---
 
 Passons maintenant à la découverte des principaux éditeurs de code et IDE disponibles sous Ubuntu.
+
+⏭️ [Outils: VS Code, Vim, JetBrains](/06-developpement-devops/module-16-environnement-developpeur/01-outils-developpement.md)

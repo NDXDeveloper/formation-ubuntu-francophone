@@ -43,3 +43,5 @@ Prérequis pour ce module :
 - Notions de base sur les conteneurs Docker (voir Module 15)
 
 Commençons notre voyage dans le monde du DevOps avec Ubuntu !
+
+⏭️ [Docker dans le cycle de dev](/06-developpement-devops/module-17-devops/01-docker-cycle-dev.md)

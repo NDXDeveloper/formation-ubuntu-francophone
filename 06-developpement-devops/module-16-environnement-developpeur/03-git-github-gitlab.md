@@ -653,3 +653,5 @@ Commencez par les commandes de base, puis explorez progressivement les fonctionn
 ### Cheat Sheets
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [GitHub Flow](https://guides.github.com/introduction/flow/)
+
+⏭️ [Stacks de développement en local](/06-developpement-devops/module-16-environnement-developpeur/04-stacks-developpement.md)

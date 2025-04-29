@@ -71,3 +71,5 @@ Ce niveau vous ouvre les portes vers des métiers très recherchés dans l'indus
 À la fin de ce niveau, vous aurez une compréhension solide des environnements de développement modernes, des pratiques DevOps essentielles et des bases de Kubernetes. Vous serez capable de participer activement à des projets de développement et de déploiement d'applications sous Ubuntu.
 
 Prêt à entrer dans le monde du développement et du DevOps ? Commençons avec le Module 16 !
+
+⏭️ [Module 16 – Environnement développeur](/06-developpement-devops/module-16-environnement-developpeur/README.md)

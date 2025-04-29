@@ -1248,3 +1248,5 @@ Le choix de l'environnement dépend de vos besoins spécifiques, de vos préfér
 Rappelez-vous que le développement web est un domaine en constante évolution. Restez curieux, continuez à apprendre et n'hésitez pas à adopter de nouvelles technologies et méthodologies.
 
 Bon développement !
+
+⏭️ [Module 17 – DevOps avec Ubuntu](/06-developpement-devops/module-17-devops/README.md)

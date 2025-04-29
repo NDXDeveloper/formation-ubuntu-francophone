@@ -744,3 +744,5 @@ Rappelez-vous que la sécurité est un processus continu. Surveillez régulière
 - [Documentation officielle sur les Network Policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 - [Kubernetes Security Best Practices](https://kubernetes.io/docs/concepts/security/security-best-practices/)
 - [Outils de sécurité Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/)
+
+⏭️ [NIVEAU 7 – PROJETS, ÉVALUATION & CERTIFICATION](/07-projets-certification/README.md)

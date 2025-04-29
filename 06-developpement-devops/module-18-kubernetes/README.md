@@ -52,3 +52,5 @@ Pour tirer le meilleur parti de ce module, il est recommandé d'avoir :
 N'inquiétez pas si certains concepts vous semblent complexes au premier abord. Nous aborderons chaque sujet progressivement, avec des exemples pratiques et des exercices pour consolider vos connaissances.
 
 Prêt à plonger dans le monde de Kubernetes ? Commençons !
+
+⏭️ [Introduction à Kubernetes](/06-developpement-devops/module-18-kubernetes/01-introduction-architecture.md)

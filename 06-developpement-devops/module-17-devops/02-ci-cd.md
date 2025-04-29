@@ -336,3 +336,5 @@ Commencez petit, avec des workflows simples, puis ajoutez progressivement plus d
 - [Documentation officielle de GitLab CI](https://docs.gitlab.com/ee/ci/)
 - [GitHub Actions Marketplace](https://github.com/marketplace?type=actions)
 - [Exemples de configurations GitLab CI](https://docs.gitlab.com/ee/ci/examples/)
+
+⏭️ [Ansible, début de l'IaC](/06-developpement-devops/module-17-devops/03-ansible-iac.md)

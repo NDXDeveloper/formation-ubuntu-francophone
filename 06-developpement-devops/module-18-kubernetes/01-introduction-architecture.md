@@ -459,3 +459,5 @@ Dans les prochains modules, nous explorerons la mise en place d'un cluster Kuber
 - [Playground Kubernetes](https://www.katacoda.com/courses/kubernetes) - Pour pratiquer sans installation
 
 Dans le prochain module, nous verrons comment installer et configurer Kubernetes avec kubeadm sur Ubuntu.
+
+⏭️ [Installation de Kubernetes avec kubeadm](/06-developpement-devops/module-18-kubernetes/02-installation-kubernetes.md)

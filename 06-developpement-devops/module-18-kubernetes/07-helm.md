@@ -632,3 +632,5 @@ En adoptant Helm, vous standardisez vos déploiements, réduisez la duplication 
 - [Artifact Hub](https://artifacthub.io/) - Un hub pour découvrir et partager des packages Kubernetes, y compris des charts Helm
 - [Helm Best Practices](https://helm.sh/docs/chart_best_practices/)
 - [Helm Chart Development Guide](https://helm.sh/docs/chart_template_guide/)
+
+⏭️ [Sécurisation du cluster](/06-developpement-devops/module-18-kubernetes/08-securisation-cluster.md)

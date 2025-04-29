@@ -341,3 +341,5 @@ En adoptant Docker dès le début de votre cycle de développement, vous établi
 - [Documentation officielle de Docker](https://docs.docker.com)
 - [Docker Hub](https://hub.docker.com) - Pour trouver des images officielles
 - [Play with Docker](https://labs.play-with-docker.com) - Environnement Docker en ligne pour s'entraîner
+
+⏭️ [CI/CD: GitHub Actions, GitLab CI](/06-developpement-devops/module-17-devops/02-ci-cd.md)

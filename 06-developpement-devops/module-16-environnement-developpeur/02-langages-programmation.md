@@ -913,3 +913,5 @@ N'hésitez pas à explorer davantage chaque langage en fonction de vos intérêt
 - [Codecademy](https://www.codecademy.com/)
 - [The Odin Project](https://www.theodinproject.com/) (développement web)
 - [Exercism](https://exercism.io/) (exercices pratiques)
+
+⏭️ [Git, GitHub, GitLab](/06-developpement-devops/module-16-environnement-developpeur/03-git-github-gitlab.md)

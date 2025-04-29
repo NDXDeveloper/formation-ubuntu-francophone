@@ -623,3 +623,5 @@ Ce tutoriel vous a fourni les bases pour commencer avec Ansible, mais il y a bea
 - [Ansible Galaxy](https://galaxy.ansible.com/) - Référentiel de rôles Ansible
 - [Ansible for DevOps](https://www.ansiblefordevops.com/) - Livre de Jeff Geerling (en anglais)
 - [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html) - Pour gérer les données sensibles
+
+⏭️ [Monitoring: Netdata, Grafana, Prometheus](/06-developpement-devops/module-17-devops/04-monitoring.md)

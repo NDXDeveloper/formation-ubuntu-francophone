@@ -780,3 +780,5 @@ Ces compétences sont indispensables pour gérer efficacement des applications e
 - [Guide de requêtes PromQL](https://prometheus.io/docs/prometheus/latest/querying/basics/)
 - [Documentation de Grafana](https://grafana.com/docs/grafana/latest/)
 - [Modèles d'instrumentation Prometheus](https://prometheus.io/docs/practices/instrumentation/)
+
+⏭️ [Introduction à Helm](/06-developpement-devops/module-18-kubernetes/07-helm.md)

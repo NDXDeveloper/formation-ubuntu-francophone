@@ -578,3 +578,5 @@ En suivant ce tutoriel et en pratiquant les exercices, vous avez maintenant les 
 - [Documentation de Grafana](https://grafana.com/docs/)
 - [Grafana Dashboards](https://grafana.com/grafana/dashboards/) - Bibliothèque de tableaux de bord prêts à l'emploi
 - [Awesome Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Liste de ressources Prometheus
+
+⏭️ [Module 18 – Kubernetes sur Ubuntu](/06-developpement-devops/module-18-kubernetes/README.md)

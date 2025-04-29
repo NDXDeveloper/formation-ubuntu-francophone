@@ -786,3 +786,5 @@ En suivant ces bonnes pratiques, vous pourrez créer des applications conteneuri
 - [Documentation officielle de Kubernetes sur les Déploiements](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 - [Documentation officielle de Kubernetes sur les ConfigMaps](https://kubernetes.io/docs/concepts/configuration/configmap/)
 - [Documentation officielle de Kubernetes sur les Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
+
+⏭️ [Scaling, mise à jour, monitoring](/06-developpement-devops/module-18-kubernetes/06-scaling-mise-a-jour-monitoring.md)
