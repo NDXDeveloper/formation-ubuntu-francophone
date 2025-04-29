@@ -10,7 +10,7 @@ Ubuntu est l'une des distributions Linux les plus populaires et accessibles. Son
 
 Ubuntu est une distribution Linux basée sur Debian, créée en 2004 par la société Canonical, fondée par l'entrepreneur sud-africain Mark Shuttleworth.
 
-![Logo Ubuntu](https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png)
+![Logo Ubuntu](/assets/ubuntu/ubuntu-logo.png)
 
 Le nom "Ubuntu" vient d'un concept africain qui peut se traduire par "humanité envers les autres" ou "je suis ce que je suis grâce à ce que nous sommes tous". Cette philosophie se reflète dans les valeurs de la communauté Ubuntu :
 
@@ -36,7 +36,7 @@ C'est la version la plus connue, conçue pour les ordinateurs personnels (PC et 
 
 **Public cible :** Utilisateurs individuels, débutants comme expérimentés, cherchant un système d'exploitation complet pour un usage quotidien.
 
-![Ubuntu Desktop](https://i.imgur.com/m9QXBwA.jpg)
+![Ubuntu Desktop](/assets/ubuntu/ubuntu-desktop.jpeg)
 
 ### Ubuntu Server
 
@@ -56,6 +56,8 @@ Version optimisée pour fonctionner sur des serveurs, sans interface graphique p
 
 Les "flavors" (saveurs) d'Ubuntu sont des versions officiellement reconnues qui utilisent le même noyau et les mêmes dépôts logiciels qu'Ubuntu, mais avec des environnements de bureau différents et parfois des sélections d'applications différentes.
 
+![Ubuntu Server](/assets/ubuntu/ubuntu-desktop-vs-server.jpeg)
+
 ### Kubuntu
 
 **Environnement :** KDE Plasma
@@ -68,7 +70,7 @@ Kubuntu offre une interface élégante et hautement personnalisable. L'environne
 - Suite d'applications KDE (Kontact, Kmail, etc.)
 - Bon pour les utilisateurs venant de Windows
 
-![Kubuntu](https://i.imgur.com/mqZQRnD.jpg)
+![Kubuntu](/assets/ubuntu/kubuntu.jpeg)
 
 ### Xubuntu
 
@@ -82,6 +84,8 @@ Xubuntu est une version légère d'Ubuntu, idéale pour les ordinateurs anciens 
 - Interface simple et fonctionnelle
 - Parfait pour redonner vie à d'anciens ordinateurs
 
+![Xubuntu](/assets/ubuntu/xubuntu.jpeg)
+
 ### Lubuntu
 
 **Environnement :** LXQt
@@ -93,6 +97,8 @@ Encore plus léger que Xubuntu, Lubuntu est conçu pour être extrêmement écon
 - Fonctionne bien sur du matériel très ancien
 - Applications légères par défaut
 - Interface minimaliste
+
+![Lubuntu](/assets/ubuntu/lubuntu.jpeg)
 
 ### Ubuntu MATE
 
@@ -106,7 +112,7 @@ Ubuntu MATE propose une expérience traditionnelle de bureau, inspirée de l'anc
 - Très stable et fiable
 - Apprécié par les utilisateurs préférant une approche classique
 
-![Ubuntu MATE](https://i.imgur.com/u1hRZwC.jpg)
+![Ubuntu MATE](/assets/ubuntu/ubuntu-mate.jpeg)
 
 ### Ubuntu Budgie
 
@@ -119,6 +125,8 @@ Ubuntu Budgie offre une interface élégante et moderne, développée à l'origi
 - Intuitive pour les nouveaux utilisateurs
 - Bon équilibre entre esthétique et performance
 
+![Ubuntu Budgie](/assets/ubuntu/ubuntu-budgie.jpeg)
+
 ### Ubuntu Studio
 
 **Environnement :** KDE Plasma (anciennement Xfce)
@@ -130,6 +138,8 @@ Ubuntu Studio est spécialement conçu pour la création multimédia (audio, vid
 - Noyau à faible latence pour l'audio professionnel
 - Suite d'outils pour le graphisme et la vidéo
 
+![](/assets/ubuntu/ubuntu-studio.jpeg)
+
 ### Ubuntu Kylin
 
 **Environnement :** UKUI (basé sur MATE)
@@ -140,6 +150,8 @@ Ubuntu Kylin est une version développée spécifiquement pour les utilisateurs 
 - Interface adaptée aux habitudes des utilisateurs chinois
 - Support complet du chinois
 - Applications localisées et adaptées au marché chinois
+
+![](/assets/ubuntu/ubuntu-kylin.jpeg)
 
 ## Autres variantes notables
 
@@ -153,6 +165,8 @@ Version d'Ubuntu spécialisée pour l'Internet des Objets (IoT) et les appareils
 - Basé sur le système de paquets Snap
 - Idéal pour les dispositifs connectés et l'industrie
 
+![](/assets/ubuntu/ubuntu-core.jpeg)
+
 ### Ubuntu Cloud
 
 Optimisé pour les environnements cloud comme Amazon EC2, Microsoft Azure, etc.
@@ -161,6 +175,8 @@ Optimisé pour les environnements cloud comme Amazon EC2, Microsoft Azure, etc.
 - Images préconfigurées pour différents fournisseurs cloud
 - Outils d'orchestration cloud intégrés
 - Support pour les technologies cloud natives
+
+![](/assets/ubuntu/ubuntu-cloud.jpeg)
 
 ## Comment choisir la bonne variante ?
 

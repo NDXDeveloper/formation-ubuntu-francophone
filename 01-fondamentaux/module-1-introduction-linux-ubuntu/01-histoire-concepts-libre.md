@@ -30,7 +30,7 @@ Dans les années 1970, l'industrie du logiciel a commencé à évoluer vers un m
 
 Le mouvement du logiciel libre est né d'une réaction à cette fermeture progressive. L'événement déclencheur est souvent attribué à Richard Stallman, chercheur au MIT.
 
-![Richard Stallman](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Richard_Stallman_at_LibrePlanet_2019.jpg/320px-Richard_Stallman_at_LibrePlanet_2019.jpg)
+![Richard Stallman](/assets/personnes-cles/richard-stallman.jpeg)
 
 En 1983, frustré par l'impossibilité de modifier le logiciel d'une imprimante, Stallman a lancé le projet GNU (GNU's Not Unix) avec l'ambition de créer un système d'exploitation complètement libre.
 
@@ -57,7 +57,7 @@ En 1991, un étudiant finlandais nommé Linus Torvalds a développé un noyau de
 
 Ce noyau, combiné aux outils du projet GNU, a permis la création du premier système d'exploitation complètement libre, souvent appelé GNU/Linux.
 
-![Linus Torvalds](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/320px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg)
+![Linus Torvalds](/assets/personnes-cles/linus-torvalds.jpeg)
 
 ### L'essor du développement collaboratif
 
