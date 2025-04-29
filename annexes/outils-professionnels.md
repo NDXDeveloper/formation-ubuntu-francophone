@@ -451,4 +451,4 @@ Avec de la pratique, ces outils deviendront des extensions naturelles de votre f
 - **Git** : [Livre Pro Git](https://git-scm.com/book/fr/v2)
 - **VSCode** : [Documentation](https://code.visualstudio.com/docs)
 
-⏭️ [Scripts](/annexes/scripts/README.md)
+⏭️ [Scripts](/annexes/scripts/)
