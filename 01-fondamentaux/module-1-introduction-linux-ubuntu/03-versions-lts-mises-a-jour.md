@@ -46,7 +46,7 @@ Ubuntu propose deux types de versions avec des cycles de vie différents :
 - Plus stables et plus testées que les versions régulières
 - Recommandées pour les utilisateurs privilégiant la stabilité et pour les environnements professionnels
 
-![Cycle de publication Ubuntu](https://i.imgur.com/jgNVBs1.png)
+![Cycle de publication Ubuntu](/assets/maj/support.png)
 
 > **Conseil pour débutants :** Si vous débutez avec Ubuntu ou si vous installez Ubuntu sur un ordinateur principal, il est généralement recommandé de choisir la dernière version LTS pour bénéficier d'une plus grande stabilité et d'un support à long terme.
 
@@ -84,7 +84,7 @@ Par défaut, Ubuntu est configuré pour :
 
 Vous pouvez modifier ces paramètres via l'application "Logiciels et mises à jour" :
 
-![Paramètres de mise à jour](https://i.imgur.com/qyHLfr9.png)
+![Paramètres de mise à jour](/assets/maj/mise-a-niveau-vers-ubuntu-2404-canal-mise-a-niveau.png)
 
 ## Mise à niveau de version
 
@@ -102,7 +102,7 @@ Lorsqu'une nouvelle version d'Ubuntu est disponible, vous pouvez mettre à nivea
 
 1. **Via l'interface graphique** : Ubuntu vous notifie automatiquement lorsqu'une nouvelle version est disponible
 
-   ![Notification de mise à niveau](https://i.imgur.com/Z8rUkNY.png)
+   ![Notification de mise à niveau](/assets/maj/Ubuntu-LTS-upgrade-notification.webp)
 
 2. **Via le terminal** :
 ```shell script
@@ -156,13 +156,15 @@ Si vous utilisez Ubuntu pour un usage personnel, vous pouvez activer Ubuntu Pro 
 sudo pro attach [votre-token]
 ```
 
+![Ubuntu Pro ](/assets/maj/ubuntupro.png)
+
 4. Vérifiez l'état de votre abonnement :
 ```shell script
 pro status
 ```
 
 
-![Ubuntu Pro Dashboard](https://i.imgur.com/VLcIAUe.png)
+![Ubuntu Pro Dashboard](/assets/maj/ubuntu-pro-868x465.png)
 
 ## Quelle version choisir pour votre usage ?
 
