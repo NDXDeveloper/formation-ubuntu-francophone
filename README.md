@@ -1,6 +1,6 @@
 # Formation Ubuntu Complète – De Débutant à Expert
 
-![Ubuntu Logo](https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png)
+![Ubuntu Logo](/assets/ubuntu/banniere.png)
 
 ## À propos de cette formation
 
@@ -70,7 +70,7 @@ Cette formation a été créée et est maintenue par **Nicolas Deoux**.
 
 - Email: [ndxdev@gmail.com](mailto:ndxdev@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/nicolas-deoux-ab295980/](https://www.linkedin.com/in/nicolas-deoux-ab295980/)
-- GitHub: [ndxdev](https://github.com/ndxdev)
+- GitHub: [NDXDev](https://github.com/NDXDeveloper)
 
 N'hésitez pas à me contacter pour toute question, suggestion ou opportunité de collaboration concernant cette formation ou d'autres projets liés à Ubuntu et Linux.
 
