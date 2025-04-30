@@ -31,8 +31,7 @@ Windows est le système d'exploitation le plus répandu sur les ordinateurs pers
 | **Jeux** | Support croissant via Steam et Proton | Large bibliothèque de jeux natifs |
 | **Facilité pour débutants** | Courbe d'apprentissage modérée | Familier pour la plupart des utilisateurs |
 
-![Comparaison des interfaces](https://i.imgur.com/hD9yhzO.jpg)
-*À gauche : Ubuntu 22.04 avec GNOME / À droite : Windows 11*
+![Comparaison des interfaces](/assets/ubuntu/ubuntuvswin.jpeg)
 
 ### Cas d'utilisation favorables à Ubuntu
 - Vous valorisez la vie privée et la transparence
@@ -71,8 +70,7 @@ macOS d'Apple est réputé pour sa simplicité et son élégance. Comparons-le �
 | **Compatibilité MS Office** | Via LibreOffice ou OnlyOffice | Version native disponible |
 | **Développement** | Excellent pour presque tous les langages | Excellent pour le développement Apple |
 
-![macOS vs Ubuntu](https://i.imgur.com/VBcKF9H.jpg)
-*À gauche : Ubuntu 22.04 / À droite : macOS Ventura*
+![macOS vs Ubuntu](/assets/ubuntu/ubuntuvsmacos.jpeg)
 
 ### Cas d'utilisation favorables à Ubuntu
 - Vous souhaitez utiliser du matériel non-Apple
@@ -132,8 +130,8 @@ Linux Mint est basé sur Ubuntu et conçu pour être encore plus accessible aux 
 | Directement de Canonical | Couche supplémentaire de personnalisation |
 | Plusieurs variantes officielles | Trois variantes principales (Cinnamon, MATE, Xfce) |
 
-![Linux Mint](https://i.imgur.com/3DQuQhh.jpg)
-*Linux Mint avec l'environnement de bureau Cinnamon*
+![Linux Mint](/assets/ubuntu/ubuntuvsmint.jpeg)
+
 
 **Quand choisir Ubuntu :** Vous préférez une expérience moderne et innovante directement du créateur.
 **Quand choisir Linux Mint :** Vous recherchez une expérience plus traditionnelle et familière.
@@ -208,8 +206,9 @@ Vous n'êtes pas obligé de choisir définitivement ! Voici comment essayer Ubun
 3. **Dual-boot** : Installez Ubuntu à côté de votre système actuel et choisissez au démarrage
 4. **WSL** (Windows Subsystem for Linux) : Sur Windows 10/11, installez Ubuntu comme sous-système
 
-![Mode Live](https://i.imgur.com/RWhA1kZ.jpg)
-*Ubuntu en mode Live permet de tester le système sans l'installer*
+![Mode Live](/assets/ubuntu/ubuntuliveusb.jpeg)
+
+![Mode Live](/assets/ubuntu/live_cd_maverick4.png)
 
 ## Migration vers Ubuntu : à quoi s'attendre
 
